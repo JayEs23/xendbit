@@ -7,7 +7,7 @@
                                 <img src="assets/images/xendbit-light.png" class="logo-1" alt="Image" />
                                 <img src="assets/images/xendbit-dark.png" class="logo-2" alt="Image" />
                             </a>
-                            <p>Join XendBitV2 today and revolutionize the way you handle payments and remittances. Trust in our expertise, embrace our cutting-edge technology, and experience financial freedom like never before.</p>
+                            <p>Join XendBitV2 today and be at the forefront of the African crypto revolution. Embrace our cutting-edge technology, enjoy seamless transactions, and unlock a future of financial freedom in the African landscape.</p>
                             <div class="social-links">
                                 <ul>
                                     <li>

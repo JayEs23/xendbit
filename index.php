@@ -18,10 +18,10 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6" data-aos="fade-down" data-aos-duration="1200" data-aos-delay="200">
                         <div class="app-banner-content">
-                            <span>The Decentralized Exchange</span>
-                            <h1>Total Control and Security</h1>
+                            <span>Crypto Exchange and Blockchain Services</span>
+                            <h3 class=""text-white>Total Control and Security</h3>
                             <!-- <p>Trade Bitcoin, Ethereum and Litecoin without the risks associated with centralised exchanges.</p> -->
-                            <p>Unlock the full potential of hassle-free payments and remittances with XendBitV2, the leading crypto-friendly application platform designed to address the challenges facing the Nigerian financial landscape.</p>
+                            <p>Unleash the full potential of hassle-free payments and remittances with XendBitV2, the leading crypto-friendly application platform designed to address the challenges of the African financial landscape. As Africa embraces the crypto revolution, XendBit recognizes the need for a compliant and innovative platform. Say goodbye to high transaction fees, payment delays, reversals, and the lack of dedicated payment channels for critical transactions. XendBitV2 has got you covered!</p>
                             <!-- <div class="download-links">
                                 <ul>
                                     <li>
@@ -51,7 +51,7 @@
         <div id="features" class="app-features-area pt-100 pb-70">
             <div class="container">
                 <div class="app-section-title">
-                    <span>Discover why XendBitV2 stands out as the ultimate solution for your payment and remittance needs</span>
+                    <span>Discover why XendBitV2 will redefine the way you transact in the African landscape</span>
                     <h2>Awesome Features</h2>
                 </div>
 
@@ -61,7 +61,7 @@
                             <div class="features-content">
                                 <i class="flaticon-return"></i>
                                 <h3>Easy to Use</h3>
-                                <p>With XendBitV2, managing your financial transactions becomes a breeze. Our user-friendly interface allows you to edit and control your account with ease, ensuring a seamless experience.</p>
+                                <p>With XendBitV2, managing your financial transactions will be a breeze. Our user-friendly interface will allow you to effortlessly edit and control your account, ensuring a seamless experience.</p>
                             </div>
                         </div>
                     </div>
@@ -70,7 +70,7 @@
                             <div class="features-content">
                                 <i class="flaticon-security"></i>
                                 <h3>Fully Secure</h3>
-                                <p>XendBitV2 utilizes state-of-the-art encryption and security protocols to safeguard your funds and personal information. Your peace of mind is our top priority.<br><br></p>
+                                <p>With XendBitV2, managing your financial transactions will be a breeze. Our user-friendly interface will allow you to effortlessly edit and control your account, ensuring a seamless experience.<br></p>
                             </div>
                         </div>
                     </div>
@@ -87,8 +87,8 @@
                         <div class="single-app-features-box">
                             <div class="features-content">
                                 <i class="flaticon-return"></i>
-                                <h3>Free Trial</h3>
-                                <p>Experience the power of XendBitV2 risk-free with our free trial. Test-drive our platform and witness its capabilities firsthand. <br><br><br><br>
+                                <h3>Reduced cost</h3>
+                                <p>XendBitV2 will reduce transactions cost with the help of the next blockchain for Xendcoin; a utility token that helps reduce the cost of exchanging points on the platform.<br><br>
                                 </p>
                             </div>
                         </div>
@@ -111,11 +111,9 @@
                         <div class="acquaintance-content pl-20">
                             <div class="acquaintance-title">
                                 <span>Our Acquaintance</span>
-                                <h2>We Are Trusted By Thousands Of People</h2>
+                                <h2>We Are Trusted</h2>
                                 <p>
-                                    Join thousands of satisfied users who trust XendBitV2 for their payment and remittance needs. We've built a reputation for reliability and efficiency.
-                                </p>
-                            </div>
+                                    Join the band of satisfied users who will trust XendBitV2 for their payment and remittance needs. We have built a reputation for reliability and efficiency in the African landscape.
 
                             <div class="acquaintance-list">
                                 <ul>
@@ -124,14 +122,14 @@
                                             <i class="flaticon-folder"></i>
                                         </div>
                                         <h3>Device Quality Design</h3>
-                                        <p>XendBitV2's user interface is designed to ensure a seamless experience across all devices. Whether you're using a smartphone, tablet, or computer, our platform delivers top-notch performance.</p>
+                                        <p>XendBitV2's user interface is designed to ensure a seamless experience across all devices. Whether you're using a smartphone, tablet, or computer, our platform will deliver top-notch performance.</p>
                                     </li>
                                     <li>
                                         <div class="icon">
                                             <i class="flaticon-data-management"></i>
                                         </div>
                                         <h3>Easy to Manage Data</h3>
-                                        <p>Simplify your financial management with XendBitV2. Our platform streamlines data management, giving you more time to focus on what matters most.</p>
+                                        <p>Simplify your financial management with XendBitV2. Our platform will streamline data management, giving you more time to focus on what matters most.</p>
                                     </li>
                                 </ul>
                             </div>
@@ -152,11 +150,11 @@
                         <div class="design-content">
                             <div class="design-title">
                                 <span>Cool & Amazing Design</span>
-                                <h2>We Develop Amazing App For Startups</h2>
+                                <h2>We Develop Amazing DApps For our users</h2>
                             </div>
                             <div class="design-text">
                                 <p>
-                                    At XendBitV2, we believe in delivering not just functionality but also an aesthetically pleasing experience. Our app boasts an amazing design that complements its powerful features.
+                                   At XendBitV2, we believe in delivering not just functionality but also an aesthetically pleasing experience. Our apps will boast amazing designs that complements the various powerful features.
                                 </p>
                                 <p></p>
                             </div>
@@ -297,7 +295,7 @@
                         <div class="download-content pl-20">
                             <div class="download-title">
                                 <span>Download Our App</span>
-                                <h2>Get The App For Free And Start Now</h2>
+                                <h2>Get ready to embrace the future of payments and remittances with XendBitV2</h2>
                             </div>
                             <p>Say goodbye to high transaction fees, payment delays, reversals, and the lack of dedicated payment channels for critical transactions. XendBitV2 has got you covered!</p>
                             <div class="download-links">
@@ -441,7 +439,7 @@
             <div class="container">
                 <div class="app-section-title">
                     <span>Play Video</span>
-                    <h2>Discover how XendBitV2 can transform your modern lifestyle. Watch our video to learn more</h2>
+                    <h2>Discover how XendBitV2 will transform your modern lifestyle. Watch our video to learn more</h2>
                 </div>
                 <div class="video-icon">
                     <div class="icon">
@@ -457,7 +455,7 @@
             <div class="container">
                 <div class="app-section-title">
                     <span>See XendBitV2 in action.</span>
-                    <h2> Explore our app screenshots to get a glimpse of the seamless user experience.</h2>
+                    <h3> Immerse yourself in the breathtaking beauty of the African landscape as you embark on your financial journey with XendBitV2. From the majestic savannahs to the vibrant cityscapes, Africa will be your backdrop as you experience the power of crypto-friendly payments and remittances.</h3>
                 </div>
                 <div class="class-for-frame">
                     <!-- <div class="choose-slider owl-carousel owl-theme">
