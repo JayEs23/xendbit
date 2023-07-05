@@ -1,0 +1,5526 @@
+@media only screen and (max-width: 767px) {
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pt-100 {
+    padding-top: 50px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+  .pt-70 {
+    padding-top: 50px;
+  }
+  .mt-20 {
+    margin-top: 0;
+  }
+  .pl-20 {
+    padding-left: 0;
+  }
+  .pl-15 {
+    padding-left: 0;
+  }
+  .pl-30 {
+    padding-left: 0;
+  }
+  .mr-20 {
+    margin-right: 0;
+  }
+  .pr-20 {
+    padding-right: 0;
+  }
+  p {
+    font-size: 14px;
+  }
+  .form-control {
+    height: 45px;
+  }
+  .mb-30 {
+    margin-bottom: 30px;
+  }
+  body {
+    font-size: 15px;
+  }
+  .container-fluid {
+    max-width: 540px !important;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+  .sass-default-btn {
+    padding: 10px 20px;
+  }
+  .app-default-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  .consulting-default-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  .go-top {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+  }
+  .go-top i {
+    font-size: 20px;
+  }
+  .sass-Banner-area {
+    padding-top: 110px;
+    padding-bottom: 60px;
+  }
+  .sass-banner-content h1 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .sass-banner-content p {
+    margin-bottom: 20px;
+  }
+  .sass-banner-content .sass-default-btn {
+    margin-bottom: 30px;
+  }
+  .sass-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .sass-section-title span {
+    font-size: 15px;
+    margin-bottom: 5px;
+  }
+  .sass-section-title h2 {
+    font-size: 24px;
+  }
+  .app-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .app-section-title span {
+    font-size: 15px;
+    margin-bottom: 5px;
+  }
+  .app-section-title h2 {
+    font-size: 30px;
+  }
+  .agency-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .agency-section-title h2 {
+    font-size: 30px;
+  }
+  .consulting-section-title span {
+    font-size: 14px;
+  }
+  .consulting-section-title h2 {
+    font-size: 30px;
+  }
+  .sass-single-features-card {
+    padding: 20px;
+  }
+  .sass-single-features-card img {
+    margin-bottom: 10px;
+  }
+  .sass-single-features-card h3 {
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  .sass-single-features-card p {
+    font-size: 13px;
+  }
+  .sass-features-area .container .features-shape {
+    display: none;
+  }
+  .data-img {
+    margin-bottom: 20px;
+  }
+  .sass-data-content .data-section-title h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .sass-data-content .data-list ul li {
+    padding: 23px;
+    padding-left: 75px;
+    font-size: 14px;
+  }
+  .sass-data-content .data-list ul li .icon {
+    left: 12px;
+  }
+  .sass-solution-single-card {
+    padding: 20px;
+  }
+  .sass-solution-single-card .solution-content {
+    padding-left: 55px;
+  }
+  .sass-solution-single-card .solution-content h3 {
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  .sass-solution-single-card .solution-content p {
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+  .core-img .core-shape-2 {
+    display: none;
+  }
+  .core-statics-content {
+    margin-bottom: 30px;
+  }
+  .core-statics-content .statis-title h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .core-statics-content .core-list ul li h3 {
+    font-size: 18px;
+    margin-bottom: 13px;
+  }
+  .single-counter-box .counter-content h1 {
+    font-size: 28px;
+  }
+  .entro-video-area .video-shape {
+    display: none;
+  }
+  .pricing-area .container .pricing-shape {
+    display: none;
+  }
+  .pricing-area .tab .tabs {
+    margin: auto auto 30px auto;
+  }
+  .single-pricing-box {
+    padding: 30px 20px;
+  }
+  .single-pricing-box h1 {
+    font-size: 30px;
+  }
+  .single-pricing-box h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .single-pricing-box p {
+    margin-bottom: 20px;
+  }
+  .single-pricing-box .pricing-list {
+    margin-bottom: 25px;
+  }
+  .single-pricing-box .pricing-list ul li {
+    font-size: 14px;
+    margin-bottom: 11px;
+  }
+  .single-pricing-box .pricing-btn {
+    padding: 10px 50px;
+  }
+  .single-reviews-box {
+    padding: 0 20px 20px 20px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+  }
+  .single-reviews-box .reviews-top-content {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  .single-reviews-box .reviews-top-content .client-img {
+    top: -20px;
+  }
+  .single-reviews-box .reviews-bottom-content h3 {
+    font-size: 15px;
+    margin-bottom: 8px;
+  }
+  .single-reviews-box .reviews-bottom-content ul li {
+    padding-left: 0;
+  }
+  .single-reviews-box .reviews-bottom-content ul li i {
+    font-size: 10px;
+  }
+  .single-blog-card .blog-img span {
+    padding: 8px 18px;
+    font-size: 14px;
+    top: 20px;
+    right: 20px;
+  }
+  .single-blog-card .blog-content {
+    padding: 20px;
+  }
+  .single-blog-card .blog-content .name-and-date {
+    margin-bottom: 17px;
+  }
+  .single-blog-card .blog-content .name-and-date ul li {
+    padding-left: 17px;
+    margin-right: 10px;
+    font-size: 12px;
+  }
+  .single-blog-card .blog-content h2 {
+    font-size: 20px;
+    margin-bottom: 17px;
+  }
+  .single-blog-card .blog-content p {
+    margin-bottom: 17px;
+  }
+  .blog-area .shape .blog-shape-1 {
+    display: none;
+  }
+  .contact-and-subscribe-area .contact-widget {
+    padding: 20px;
+  }
+  .logo-area img {
+    margin-bottom: 20px;
+  }
+  .logo-area p {
+    margin-bottom: 22px;
+  }
+  .logo-area .social-links ul li {
+    margin-right: 12px;
+  }
+  .logo-area .social-links ul li a {
+    height: 40px;
+    width: 40px;
+    line-height: 43px;
+    font-size: 16px;
+  }
+  .logo-area.style5 .newsletter-form .form-control {
+    height: 42px;
+  }
+  .logo-area.style5 .newsletter-form .currency-default-btn {
+    top: 0;
+    padding: 12px 20px;
+  }
+  .logo-area.style6 .newsletter-form .nft-default-btn {
+    top: .5px;
+  }
+  .footer-widjet h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .footer-widjet .link-list ul li {
+    padding-left: 18px;
+    font-size: 14px;
+    margin-bottom: 11px;
+  }
+  .footer-widjet .link-list ul li i {
+    font-size: 12px;
+  }
+  .download-link h3 {
+    font-size: 20px;
+    margin-bottom: 25px;
+  }
+  .copy-right-area p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .agency-footer-area .footer-shape-1 {
+    display: none;
+  }
+  .agency-footer-area .footer-shape-2 {
+    display: none;
+  }
+  /*App Home
+======================================================*/
+  .app-banner-area {
+    padding-top: 130px;
+  }
+  .app-banner-content h1 {
+    font-size: 30px;
+  }
+  .app-banner-content .download-links {
+    text-align: left;
+  }
+  .app-banner-content .download-links ul li {
+    max-width: 130px;
+  }
+  .single-app-features-box .features-content {
+    padding: 20px;
+  }
+  .single-app-features-box .features-content i {
+    margin-bottom: 15px;
+  }
+  .single-app-features-box .features-content h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+  .agency-features-area .container .features-shape-1 {
+    display: none;
+  }
+  .acquaintance-img {
+    margin-bottom: 20px;
+  }
+  .acquaintance-content .acquaintance-title h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .acquaintance-content .acquaintance-list ul li {
+    padding-left: 60px;
+  }
+  .acquaintance-content .acquaintance-list ul li h3 {
+    font-size: 20px;
+  }
+  .design-content {
+    margin-bottom: 30px;
+  }
+  .design-content .design-title h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .design-image .doller {
+    padding: 20px;
+    right: 0;
+  }
+  .design-image .doller img {
+    margin-bottom: 12px;
+  }
+  .design-image .doller h1 {
+    font-size: 24px;
+  }
+  .app-single-pricing-card {
+    padding: 25px;
+  }
+  .app-single-pricing-card .pricing-top-content {
+    margin-bottom: 25px;
+  }
+  .app-single-pricing-card .pricing-top-content h2 {
+    font-size: 24px;
+  }
+  .app-reviews-content {
+    margin-bottom: 50px;
+  }
+  .app-reviews-section h2 {
+    font-size: 30px;
+  }
+  .app-reviews-box .clients-profile h3 {
+    font-size: 20px;
+  }
+  .app-reviews-img {
+    padding-right: 0px;
+  }
+  .app-reviews-img .video-player {
+    display: none;
+  }
+  .download-content {
+    margin-bottom: 50px;
+  }
+  .download-content .download-title h2 {
+    font-size: 30px;
+    margin-bottom: 18px;
+  }
+  .download-content .download-links {
+    text-align: left;
+  }
+  .download-content .download-links ul li img {
+    max-width: 130px;
+  }
+  .app-download-area::before {
+    display: none;
+  }
+  .single-team-card .team-content {
+    padding: 20px;
+  }
+  .team-area .container .team-shape {
+    display: none;
+  }
+  .class-for-frame .choose-img-frame {
+    display: none;
+  }
+  .choose-slider.owl-theme .owl-nav [class*=owl-] {
+    display: none;
+  }
+  .more-us-content {
+    padding: 20px;
+  }
+  .more-us-content .more-us-btn {
+    text-align: left;
+  }
+  .more-us-content .more-us-title h2 {
+    font-size: 27px;
+    margin-bottom: 26px;
+  }
+  .more-us-content .app-default-btn {
+    padding: 8px 10px;
+    text-align: center;
+  }
+  .app-single-blog-card .blog-content {
+    padding-top: 25px;
+  }
+  .app-single-blog-card .blog-content h3 {
+    font-size: 20px;
+    margin-bottom: 25px;
+  }
+  .app-single-blog-card .blog-content .date-and-comment {
+    margin-bottom: 15px;
+  }
+  .app-single-blog-card .blog-content .date-and-comment ul li {
+    font-size: 13px;
+  }
+  .download-links {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .download-links ul li img {
+    max-width: 136px;
+  }
+  .app-copy-right-area p {
+    text-align: center;
+  }
+  /*Agency Home
+======================================================*/
+  .agency-banner-area {
+    padding-top: 120px;
+  }
+  .agency-banner-content {
+    margin-bottom: 30px;
+  }
+  .agency-banner-content h1 {
+    font-size: 30px;
+    margin-bottom: 18px;
+  }
+  .agency-banner-content .agency-default-btn {
+    padding: 10px 20px;
+    font-size: 11px;
+  }
+  .trasted-content {
+    padding: 20px;
+  }
+  .trasted-content .trasted-text h3 {
+    font-size: 19px;
+    margin-bottom: 20px;
+  }
+  .agency-default-btn {
+    padding: 10px 20px;
+    font-size: 13px;
+  }
+  .agency-single-features-card {
+    padding: 20px;
+  }
+  .agency-single-features-card h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .agency-single-features-card p {
+    margin-bottom: 10px;
+  }
+  .agency-single-features-card .icon {
+    height: 70px;
+    width: 70px;
+    line-height: 80px;
+  }
+  .agency-about-image {
+    margin-bottom: 30px;
+  }
+  .agency-about-content .agency-about-title h2 {
+    font-size: 27px;
+    margin-bottom: 20px;
+  }
+  .agency-about-area .about-shape-3 {
+    display: none;
+  }
+  .agency-services-area .container-fluid {
+    left: 0;
+  }
+  .agency-single-services-card .services-content {
+    padding: 20px;
+  }
+  .agency-single-services-card .services-content h3 {
+    font-size: 20px;
+  }
+  .agency-single-services-card img {
+    width: 100% !important;
+  }
+  .services-slider.owl-theme .owl-nav [class*=owl-] {
+    right: 0;
+  }
+  .portfolio-card .portfolio-img .caption-one h3 {
+    font-size: 18px;
+  }
+  .portfolio-card .portfolio-img .caption-two {
+    padding: 20px;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+  }
+  .portfolio-card .portfolio-img .caption-two h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .portfolio-card .portfolio-img .caption-two p {
+    font-size: 13px;
+  }
+  .agency-choose-content .agency-choose-title h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .agency-choose-content .choose-list ul li h3 {
+    font-size: 19px;
+  }
+  .agency-counter-box .counter-content h1 {
+    font-size: 30px;
+  }
+  .agency-pricing-box {
+    padding: 25px;
+    border: 1px solid #eeeeee;
+    margin-bottom: 30px;
+  }
+  .agency-pricing-box:hover, .agency-pricing-box.active {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  .agency-pricing-tabs .tab_content {
+    background-color: unset;
+    -webkit-box-shadow: unset;
+            box-shadow: unset;
+  }
+  .agency-pricing-area .container .pricing-shape-1 {
+    display: none;
+  }
+  .agency-pricing-area .container .pricing-shape-2 {
+    display: none;
+  }
+  .agency-team-card .team-content .team-image {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .agency-team-card .team-content .team-caption {
+    padding: 25px;
+    position: unset;
+    border-radius: 0 0 10px 10px;
+  }
+  .agency-team-area .container .team-shape-2 {
+    display: none;
+  }
+  .agency-testimonial-card {
+    padding: 25px;
+  }
+  .agency-testimonial-area .testimonial-shape-1 {
+    display: none;
+  }
+  .agency-testimonial-area .testimonial-shape-3 {
+    display: none;
+  }
+  .agency-intro-video-area .video-shape-2 {
+    display: none;
+  }
+  .join-us-content {
+    padding-left: 0px;
+    padding-top: 20px;
+  }
+  .join-us-content h2 {
+    font-size: 30px;
+  }
+  .join-us-content .join-us-form .form-group {
+    margin-bottom: 25px;
+  }
+  .join-us-content .join-us-form .form-group .form-control {
+    border-radius: 10px;
+  }
+  .join-us-content .join-us-form .form-group .form-control.redius {
+    border-radius: 10px;
+  }
+  .join-us-content .join-us-form .form-group .agency-default-btn {
+    border-radius: 10px;
+  }
+  .join-us-img .join-us-shape-1 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .agency-blog-card .blog-content {
+    padding: 20px;
+  }
+  .agency-blog-card .blog-content h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .agency-blog-card .blog-content p {
+    margin-bottom: 15px;
+  }
+  .agency-blog-card .blog-content .list li {
+    font-size: 13px;
+  }
+  .agency-blog-area .container .blog-shape-1 {
+    display: none;
+  }
+  /*Consultings Home
+======================================================*/
+  .consulting-banner-area {
+    padding-top: 120px;
+  }
+  .consulting-banner-content {
+    margin-bottom: 20px;
+  }
+  .consulting-banner-content h1 {
+    font-size: 32px;
+  }
+  .consulting-banner-content p {
+    margin-bottom: 25px;
+  }
+  .consulting-banner-content .join-us-btn {
+    font-size: 11px;
+  }
+  .consulting-banner-content .join-us-btn i {
+    padding-right: 5px;
+  }
+  .consulting-banner-image .careear .content {
+    display: none;
+  }
+  .consulting-banner-image .month-stars {
+    width: 220px;
+    top: auto;
+    bottom: 20px;
+    right: 15px;
+  }
+  .features-content {
+    -webkit-box-shadow: unset;
+            box-shadow: unset;
+  }
+  .consulting-features-card {
+    text-align: center;
+    padding: 60px 20px 30px 20px;
+    position: relative;
+    border: 1px solid #eeeeee;
+    margin-bottom: 30px;
+    border-radius: 7px;
+  }
+  .consulting-features-card::before {
+    display: none;
+  }
+  .consulting-features-card h3 {
+    font-size: 18px;
+    margin-bottom: 13px;
+  }
+  .consulting-features-card p {
+    margin-bottom: 15px;
+  }
+  .consulting-features-area.ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  .consulting-about-image {
+    margin-bottom: 30px;
+  }
+  .consulting-about-image .about-shape-3 {
+    display: none;
+  }
+  .consulting-about-image .customer {
+    padding: 20px;
+    right: 0;
+  }
+  .consulting-about-image .customer .customer-content h1 {
+    font-size: 26px;
+    margin-bottom: 8px;
+  }
+  .consulting-about-content .consulting-about-title span {
+    font-size: 14px;
+  }
+  .consulting-about-content .consulting-about-title h2 {
+    font-size: 30px;
+  }
+  .consulting-about-content .about-profile h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  .consulting-about-content .download-btn {
+    font-size: 14px;
+  }
+  .consulting-about-content .consulting-default-btn {
+    margin-bottom: 25px;
+  }
+  .consulting-about-content a {
+    display: inherit !important;
+    text-align: center;
+  }
+  .consulting-about-area .about-shape-2 {
+    display: none;
+  }
+  .consulting-services-card .services-img .icon {
+    font-size: 20px;
+    height: 50px;
+    width: 50px;
+    line-height: 55px;
+    bottom: -25px;
+  }
+  .consulting-services-card .services-content {
+    padding: 20px;
+    padding-top: 30px;
+  }
+  .consulting-services-card .services-content h3 {
+    font-size: 18px;
+    margin-bottom: 13px;
+  }
+  .consulting-services-card .services-content p {
+    margin-bottom: 13px;
+  }
+  .consulting-choose-content .choose-content-title span {
+    font-size: 14px;
+  }
+  .consulting-choose-content .choose-content-title h2 {
+    font-size: 30px;
+  }
+  .choose-counter-card .counter-content h1 {
+    font-size: 32px;
+  }
+  .consult-choose-img {
+    margin-right: 0;
+  }
+  .consult-choose-img .choose-shape-1 {
+    display: none;
+  }
+  .consulting-project-card .project-content h3 {
+    font-size: 20px;
+  }
+  .quote-content {
+    padding-left: 0;
+    padding-top: 80px;
+    margin-bottom: 30px;
+  }
+  .quote-content .quote-title h2 {
+    font-size: 30px;
+  }
+  .quote-content .consulting-default-btn {
+    padding: 10px 18px;
+  }
+  .quote-img {
+    padding-bottom: 80px;
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .consulting-team-card .team-content h3 {
+    font-size: 20px;
+  }
+  .consulting-testimonial-area .container .testimonial-shape-1 {
+    display: none;
+  }
+  .consulting-testimonial-card {
+    padding: 20px;
+  }
+  .consulting-testimonial-card .icon {
+    top: 10px;
+    right: 20px;
+    font-size: 50px;
+    opacity: 0.3;
+    bottom: auto;
+  }
+  .consulting-join-content {
+    padding-left: 0;
+    margin-bottom: 30px;
+    border-left: 0;
+  }
+  .consulting-join-content h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .consulting-join-us-form .newsletter-form .form-control {
+    margin-bottom: 30px;
+    height: 45px;
+  }
+  .consulting-join-us-form .newsletter-form .consulting-default-btn {
+    position: unset;
+  }
+  .consulting-blog-card .blog-content {
+    padding-top: 25px;
+  }
+  .consulting-blog-card .blog-content .list {
+    margin-bottom: 15px;
+  }
+  .consulting-blog-card .blog-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  /*Photography Home
+======================================================*/
+  .modal.right .modal-dialog {
+    width: 320px;
+  }
+  .photography-banner-area {
+    padding-top: 100px;
+  }
+  .photography-banner-content {
+    margin-bottom: 30px;
+    padding-left: 0;
+  }
+  .photography-banner-content h1 {
+    font-size: 35px;
+  }
+  .photography-banner-content p {
+    margin-bottom: 20px;
+  }
+  .photography-banner-img.owl-theme .owl-nav {
+    left: 0;
+    right: 0;
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+    bottom: 30px;
+    top: auto;
+  }
+  .photography-default-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  .photography-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .photography-section-title span {
+    font: 15px;
+    margin-bottom: 8px;
+  }
+  .photography-section-title h2 {
+    font-size: 30px;
+  }
+  .photograpy-services-card.mt-30 {
+    margin-top: 0;
+  }
+  .photograpy-services-card .services-content {
+    padding-top: 25px;
+  }
+  .photograpy-services-card .services-content span {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .photograpy-services-card .services-content h2 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .photography-about-area {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .photography-about-area .container .about-shape-1 {
+    display: none;
+  }
+  .photograpy-about-img {
+    margin-bottom: 30px;
+  }
+  .photograpy-about-content .photography-about-title h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .photograpy-video-content .video-text {
+    padding: 20px;
+  }
+  .photograpy-video-content .video-text h2 {
+    font-size: 22px;
+  }
+  .video-icon-content .icon {
+    display: none !important;
+  }
+  .photograpy-testimonial-card {
+    padding: 25px;
+  }
+  .photograpy-testimonial-card .rating {
+    margin-bottom: 12px;
+  }
+  .photograpy-testimonial-card h3 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .photograpy-testimonial-card .clients-profile h3 {
+    font-size: 18px;
+  }
+  .photography-team-card .team-caption1 {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .photography-team-card .team-caption1 h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .photography-team-card .team-caption2 {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .photography-team-card .team-caption2 h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .photography-pricing-card {
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+  .photography-pricing-card.active {
+    margin-top: 0;
+  }
+  .photography-pricing-card span {
+    font-size: 15px;
+    margin-bottom: 13px;
+  }
+  .photography-pricing-card h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  .photography-pricing-card .pricing-list li {
+    margin-bottom: 12px;
+  }
+  .photography-contact-form {
+    margin-bottom: 30px;
+  }
+  .photography-blog-card .blog-content {
+    padding-top: 20px;
+  }
+  .photography-blog-card .blog-content span {
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+  .photography-blog-card .blog-content h2 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .photography-fotter-area .photography-logo {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .photography-fotter-area .photography-quick-links {
+    margin-bottom: 25px;
+  }
+  .photography-fotter-area .photograpy-social-links .social-links {
+    text-align: center;
+  }
+  .photography-fotter-area .photograpy-social-links .social-links ul li a {
+    height: 40px;
+    width: 40px;
+    line-height: 43px;
+    font-size: 16px;
+  }
+  /*Coming Soon Home
+======================================================*/
+  .coming-soon-counter {
+    border: 10px solid #ffffff;
+    margin-bottom: 10px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+  }
+  .coming-soon-counter .shape-3 {
+    display: none;
+  }
+  .coming-soon-counter .list ul li {
+    font-size: 30px;
+  }
+  .coming-soon-counter .list ul li::before {
+    display: none;
+  }
+  .coming-soon-counter .list ul li::after {
+    display: none;
+  }
+  .coming-soon-counter::before {
+    display: none;
+  }
+  .coming-soon-area {
+    padding-top: 120px;
+  }
+  .coming-soon-area .container .coming-soon-shape-1 {
+    display: none;
+  }
+  .coming-soon-area .container .coming-soon-shape-2 {
+    display: none;
+  }
+  .coming-soon-area .container .coming-soon-shape-5 {
+    display: none;
+  }
+  .coming-soon-content .top-content h1 {
+    font-size: 30px;
+  }
+  .coming-soon-content .newsletter-form .form-control {
+    height: 60px;
+  }
+  .coming-soon-content .newsletter-form .subscribe-btn {
+    position: unset;
+    margin-top: 25px;
+  }
+  /*Political Home
+    ======================================================*/
+  .plitical-header-area {
+    position: relative;
+  }
+  .navbar-light.nav-style7 .container-fluid {
+    padding: 15px;
+  }
+  .political-header-left-content {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .political-top-header-area {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .political-top-header-area .political-header-right-content {
+    text-align: center;
+  }
+  .political-default-btn {
+    padding: 10px 20px;
+    font-size: 15px;
+  }
+  .political-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .political-section-title span {
+    font-size: 14px;
+  }
+  .political-section-title h2 {
+    font-size: 24px;
+  }
+  .political-banner-area {
+    padding-top: 60px;
+  }
+  .political-banner-content span {
+    padding-left: 17px;
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+  .political-banner-content h1 {
+    font-size: 32px;
+  }
+  .political-banner-content p {
+    margin-bottom: 25px;
+  }
+  .political-movement-card .movement-content {
+    padding-top: 20px;
+    padding-bottom: 0;
+  }
+  .political-movement-card .movement-content h1 {
+    font-size: 30px;
+  }
+  .political-about-image {
+    margin-bottom: 30px;
+    padding-left: 0;
+  }
+  .political-about-image .description-box {
+    bottom: 20px;
+    width: 280px;
+    padding: 20px;
+  }
+  .political-about-image .description-box h4 {
+    margin-bottom: 15px;
+  }
+  .political-about-image .description-box p {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  .political-about-image .description-box h3 {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  .political-about-content .political-about-title h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .political-about-content .text-content p {
+    margin-bottom: 15px;
+  }
+  .political-donation-content {
+    padding: 20px;
+    padding-top: 30px;
+  }
+  .political-donation-content .donate-text h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  .select-and-donate ul li .btn-outline-primary {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+  }
+  .select-and-donate ul li .political-default-btn {
+    margin-bottom: 20px;
+  }
+  .political-project-card .project-content {
+    padding: 20px;
+    padding-right: 40px;
+  }
+  .political-project-card .project-content h3 {
+    font-size: 18px;
+  }
+  .political-volunteer-card .volunteer-content {
+    padding: 20px;
+  }
+  .political-volunteer-card .volunteer-content h3 {
+    font-size: 20px;
+  }
+  .political-volunteer-card .volunteer-content p {
+    margin-bottom: 25px;
+  }
+  .freedom-contet {
+    padding-left: 15px;
+    padding-bottom: 25px;
+    padding-top: 20px;
+  }
+  .freedom-contet span {
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+  .freedom-contet h2 {
+    font-size: 22px;
+  }
+  .political-testimonial-card {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .political-testimonial-card .ratinig-star {
+    margin-bottom: 12px;
+  }
+  .political-testimonial-card p {
+    margin-bottom: 25px;
+  }
+  .political-testimonial-card .clients-profile h3 {
+    font-size: 18px;
+  }
+  .political-join-us-form {
+    padding: 20px;
+  }
+  .political-join-us-form h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .political-news-card .news-content {
+    padding-top: 20px;
+  }
+  .political-news-card .news-content h2 {
+    font-size: 20px;
+  }
+  .political-news-card .news-content .list {
+    margin-bottom: 12px;
+  }
+  /*Crypto Currency Home
+    ======================================================*/
+  .currency-banner-image .currency-form {
+    padding: 20px;
+    bottom: 10px;
+  }
+  .currency-banner-content {
+    margin-bottom: 70px;
+  }
+  .currency-banner-content h1 {
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+  .currency-banner-area {
+    padding-top: 120px;
+    overflow: hidden;
+  }
+  .currency-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .currency-section-title span {
+    font-size: 14px;
+  }
+  .currency-section-title h2 {
+    font-size: 24px;
+  }
+  .currency-featured-card {
+    padding: 20px;
+  }
+  .currency-about-image {
+    margin-bottom: 30px;
+  }
+  .currency-about-content .currency-about-title span {
+    font-size: 14px;
+  }
+  .currency-about-content .currency-about-title h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .currency-buy-card .curency-buy-content {
+    padding: 20px;
+  }
+  .currency-buy-card .curency-buy-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .currency-download-area .container {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+  }
+  .currency-download-area .container::after {
+    display: none;
+  }
+  .currency-download-content .download-title span {
+    font-size: 14px;
+  }
+  .currency-download-content .download-title h2 {
+    font-size: 26px;
+    margin-bottom: 20px;
+  }
+  .currency-download-image {
+    margin-bottom: 30px;
+  }
+  .download-btn img {
+    width: 130px;
+  }
+  .currency-team-card .team-content {
+    padding: 20px;
+  }
+  .currency-coin-sell-content .coin-sell-title span {
+    font-size: 14px;
+  }
+  .currency-coin-sell-content .coin-sell-title h2 {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  .currency-coin-sell-content .coin-sell-title p {
+    margin-bottom: 10px;
+  }
+  .currency-time-list {
+    margin-bottom: 40px;
+  }
+  .currency-time-list ul li {
+    font-size: 20px;
+    height: 50px;
+    width: 60px;
+    margin: 20px 6px;
+  }
+  .currency-time-list ul li::before {
+    display: none;
+  }
+  .currency-time-list ul li::after {
+    display: none;
+  }
+  .currency-default-btn {
+    padding: 10px 13px;
+    font-size: 13px;
+  }
+  .currency-testimonial-card {
+    padding: 25px;
+    padding-bottom: 35px;
+  }
+  .currency-testimonial-card .cliens-profile h3 {
+    font-size: 17px;
+  }
+  .currency-testimonial-card .rating-list {
+    margin-bottom: 10px;
+  }
+  .currency-blog-card .blog-content h2 {
+    font-size: 19px;
+    margin-bottom: 18px;
+  }
+  .currency-blog-card .blog-content p {
+    margin-bottom: 18px;
+  }
+  .footer-widjet.style5.copany {
+    padding-left: 0;
+  }
+  .currecy-user-content img {
+    display: none;
+  }
+  .currecy-user-content .currency-user-list li {
+    position: unset;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    padding: 30px;
+    border-radius: 7px;
+  }
+  .currecy-user-content .currency-user-list li .user-content {
+    max-width: unset;
+    display: block;
+    visibility: visible;
+    position: unset;
+    padding: 0;
+  }
+  .currecy-user-content .currency-user-list li .user-content::before {
+    display: none;
+  }
+  .currecy-user-content .currency-user-list li .user-img {
+    margin-bottom: 20px;
+  }
+  .currecy-user-content .currency-user-list li .user-img img {
+    display: block;
+  }
+  .currecy-user-content .currency-user-list li .user-img::before {
+    display: none;
+  }
+  /*NFT  Home
+    ======================================================*/
+  .nft-banner-content {
+    padding-right: 0;
+    margin-bottom: 25px;
+  }
+  .nft-banner-content h1 {
+    font-size: 30px;
+  }
+  .nft-banner-content .nft-default-btn {
+    padding: 10px 15px;
+    font-size: 14px;
+  }
+  .nft-banner-image {
+    margin-left: 0;
+  }
+  .nft-banner-image .current-bid {
+    max-width: 240px;
+    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    bottom: 50px;
+  }
+  .nft-banner-image .current-bid .profile {
+    margin-bottom: 45px;
+  }
+  .nft-banner-image .current-bid .profile h3 {
+    font-size: 16px;
+  }
+  .nft-section-title {
+    margin: -5px 0 30px 0;
+  }
+  .nft-section-title h2 {
+    font-size: 24px;
+  }
+  .nft-default-btn {
+    padding: 10px 20px;
+  }
+  .trnding-top-content .tranding-btn {
+    text-align: left;
+    margin-bottom: 30px;
+  }
+  .nft-tranding-card .tranding-content {
+    padding: 20px;
+    padding-top: 45px;
+  }
+  .nft-tranding-card .tranding-content .left-content h3 {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .nft-tranding-card .tranding-content .left-content span {
+    font-size: 13px;
+  }
+  .nft-tranding-card .tranding-content .right-content h4 {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .nft-tranding-card .tranding-content .right-content span {
+    font-size: 13px;
+  }
+  .nft-tranding-card .tanding-img .tranding-list {
+    left: 20px;
+    bottom: -30px;
+  }
+  .nft-tranding-card .tanding-img .tranding-list ul li img {
+    height: 40px;
+    width: 40px;
+  }
+  .tranding-slider.owl-theme .owl-nav [class*=owl-] {
+    position: unset;
+    height: 30px;
+    width: 30px;
+    line-height: 33px;
+    font-size: 14px;
+  }
+  .top-sellers-top-content .top-sellers-btn {
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  .top-sellers-box {
+    padding: 20px;
+    display: block;
+  }
+  .top-sellers-box .row {
+    display: unset;
+  }
+  .top-sellers-box .row .col-8 {
+    width: unset;
+  }
+  .top-sellers-box .row .col-4 {
+    width: unset;
+  }
+  .top-sellers-box .row.align-items-center {
+    -webkit-box-align: unset !important;
+        -ms-flex-align: unset !important;
+            align-items: unset !important;
+  }
+  .top-sellers-box .seller-address {
+    margin-bottom: 30px;
+  }
+  .top-sellers-box .seller-address h3 {
+    font-size: 16px;
+  }
+  .top-sellers-box .sell span {
+    padding: 8px 15px;
+    font-size: 14px;
+  }
+  .nft-top-sellers-area .row.one {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .nft-top-sellers-area .row.one .top-sellers-box {
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .nft-top-sellers-area .row.two {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .nft-top-sellers-area .row.two .top-sellers-box {
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .auction-top-content .auction-btn {
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  .live-auction-card .auction-content {
+    padding: 20px;
+  }
+  .live-auction-card .auction-content h3 {
+    font-size: 20px;
+  }
+  .live-auction-card .auction-content ul li {
+    font-size: 14px;
+  }
+  .live-auction-card .auction-image .live-auctions-countdown li::before {
+    right: -11px;
+  }
+  .live-auction-card .auction-image .live-auctions-countdown li::after {
+    right: -11px;
+  }
+  .live-action-slider.owl-theme .owl-nav [class*=owl-] {
+    position: unset;
+    position: relative;
+    left: 0;
+    top: 20px;
+    height: 30px;
+    width: 30px;
+    line-height: 33px;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  .live-action-slider.owl-theme .owl-nav [class*=owl-].owl-next {
+    right: 0;
+  }
+  .creat-and-sell-card {
+    padding: 20px;
+  }
+  .creat-and-sell-card .number {
+    font-size: 70px;
+  }
+  .creat-and-sell-card h3 {
+    font-size: 20px;
+    margin-bottom: 17px;
+  }
+  .products-top-content .shoting-btn {
+    text-align: left;
+  }
+  .products-top-content .shoting-btn ul li button {
+    padding: 8px 10px;
+    font-size: 14px;
+  }
+  .nft-product-card .product-content {
+    padding: 20px;
+  }
+  .nft-product-card .product-content h3 {
+    font-size: 20px;
+    margin-bottom: 17px;
+  }
+  .nft-author-top-content .author-btn {
+    text-align: left;
+    margin-bottom: 30px;
+  }
+  .nft-author-card .author-img .author-profile-img {
+    bottom: -45px;
+  }
+  .nft-author-card .author-img .author-profile-img img {
+    width: 100px;
+    height: 100px;
+  }
+  .nft-author-card .author-img .author-profile-img span {
+    margin-bottom: 20px;
+  }
+  .nft-author-card .author-img .author-profile-img ul li h3 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  .nft-author-card .author-content {
+    padding: 70px 20px 25px 20px;
+  }
+  .nft-author-card .author-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .collection-card .collction-top-content .author-profile {
+    margin-bottom: 25px;
+  }
+  .collection-card .collction-top-content .author-profile h3 {
+    font-size: 20px;
+  }
+  .collection-card .collction-top-content .heart-and-number {
+    text-align: left;
+  }
+  .collection-card .collction-top-content .heart-and-number span {
+    font-size: 14px;
+    padding: 8px 13px;
+  }
+  /*Consultings Home
+    ======================================================*/
+  .exchange-header-left-content {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .exchange-header-left-content ul li {
+    margin-bottom: 7px;
+  }
+  .exchange-header-middle-content {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  .currency-exchange-banner-content {
+    margin-bottom: 50px;
+  }
+  .currency-exchange-banner-content h1 {
+    font-size: 29px;
+    margin-bottom: 20px;
+  }
+  .currency-exchange-banner-content .banner-btn .exchange-default-btn {
+    padding: 10px 15px;
+    font-size: 14px;
+  }
+  .currency-exchange-banner-image .currency-converter-form {
+    background-color: #ffffff;
+    padding: 20px;
+    width: auto;
+    position: unset;
+  }
+  .currency-exchange-banner-image .currency-converter-form .form-group.icon-add1 img {
+    display: block;
+    top: 41px;
+  }
+  .currency-exchange-banner-image .currency-converter-form .form-group.icon-add2 img {
+    display: block;
+    top: 41px;
+  }
+  .currency-exchange-banner-image .banner-shape-1 {
+    display: none;
+  }
+  .currency-exchange-banner-image .banner-shape-2 {
+    display: none;
+  }
+  .currency-exchange-banner-image img {
+    display: none;
+  }
+  .exchange-default-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  .exchange-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .exchange-section-title span {
+    font-size: 15px;
+  }
+  .exchange-section-title h2 {
+    font-size: 24px;
+  }
+  .exchange-features-image {
+    margin-bottom: 30px;
+  }
+  .exchange-features-card {
+    padding: 25px;
+  }
+  .exchange-features-card .top-content {
+    margin-bottom: 18px;
+  }
+  .exchange-features-card .top-content h3 {
+    font-size: 20px;
+  }
+  .exchainge-about-content {
+    margin-bottom: 30px;
+  }
+  .exchainge-about-content .exchainge-about-title h2 {
+    font-size: 23px;
+  }
+  .exchainge-about-content .about-text p {
+    margin-bottom: 15px;
+  }
+  .exchange-specialist-card .specialist-content {
+    padding: 25px;
+  }
+  .exchange-specialist-card .specialist-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .converter-area .input-area .form-group .form-control {
+    border-radius: 7px;
+    margin-bottom: 20px;
+  }
+  .converter-form .list ul.d-flex {
+    display: unset !important;
+  }
+  .converter-form .list ul.justify-content-between {
+    -webkit-box-pack: unset !important;
+        -ms-flex-pack: unset !important;
+            justify-content: unset !important;
+  }
+  .converter-form .list ul li {
+    margin-bottom: 15px !important;
+  }
+  .exchange-choose-card img {
+    margin-bottom: 20px;
+  }
+  .exchange-choose-card h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .exchange-testimonials-card {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .exchange-testimonials-card .clients-profile {
+    padding-left: 95px;
+  }
+  .exchange-testimonials-card .clients-profile h3 {
+    font-size: 18px;
+  }
+  .exchange-testimonials-card .icon {
+    top: 10px;
+    right: 15px;
+    bottom: auto;
+    opacity: .3;
+  }
+  .faq-accordion {
+    margin-bottom: 30px;
+  }
+  .faq-accordion .accordion .accordion-item {
+    margin-bottom: 20px;
+  }
+  .faq-accordion .accordion .accordion-item p {
+    font-size: 13px;
+  }
+  .faq-accordion .accordion .accordion-title {
+    font-size: 16px;
+  }
+  .faq-accordion .accordion .accordion-title i {
+    display: none;
+  }
+  .exchange-blog-card .blog-contenet {
+    padding: 20px;
+  }
+  .exchange-blog-card .blog-contenet h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .exchange-blog-card .blog-contenet .list {
+    margin-bottom: 15px;
+  }
+  .exchange-blog-card .blog-contenet .list li {
+    margin-right: 15px;
+    font-size: 13px;
+    padding-left: 17px;
+  }
+  .page-banner-area {
+    padding-top: 110px;
+    padding-bottom: 65px;
+  }
+  .page-banner-content h1 {
+    font-size: 36px;
+    margin-bottom: 15px;
+  }
+  .page-banner-content ul li {
+    font-size: 15px;
+  }
+  .news-details .news-simple-card h2 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .news-details .news-simple-card p {
+    margin-bottom: 15px;
+  }
+  .news-details .theory .theory-box {
+    margin-bottom: 20px;
+  }
+  .tags-and-share .tags {
+    margin-bottom: 20px;
+  }
+  .tags-and-share .share {
+    text-align: left;
+  }
+  .comments {
+    padding-bottom: 0;
+    margin-bottom: 20px;
+  }
+  .comments h3 {
+    font-size: 20px;
+  }
+  .comments .single-comments-box {
+    padding: 0;
+  }
+  .comments img {
+    position: unset;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    margin-bottom: 20px;
+  }
+  .comments h4 {
+    margin-bottom: 8px;
+    font-size: 18px;
+  }
+  .comments .date {
+    margin-bottom: 15px;
+  }
+  .reply-area h3 {
+    font-size: 20px;
+  }
+  .reply-area .reply-form .form-group {
+    margin-bottom: 20px;
+  }
+  .services-details .real-health h3 {
+    font-size: 19px;
+    margin-bottom: 18px;
+  }
+  .services-details .this-services h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .services-details .this-services p {
+    margin-bottom: 18px;
+  }
+  .services-details .our-services h3 {
+    font-size: 17px;
+    margin-bottom: 15px;
+  }
+  .project-details-content .real-health h3 {
+    font-size: 19px;
+    margin-bottom: 18px;
+  }
+  .project-details-content .this-services h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .project-details-content .this-services p {
+    margin-bottom: 18px;
+  }
+  .project-details-content .our-services h3 {
+    font-size: 17px;
+    margin-bottom: 15px;
+  }
+  .project-details {
+    padding: 20px;
+  }
+  .project-details h3 {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .faq-accordion .accordion .accordion-title i {
+    display: block;
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pt-100 {
+    padding-top: 50px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+  .pt-70 {
+    padding-top: 50px;
+  }
+  .mt-20 {
+    margin-top: 0;
+  }
+  .pl-20 {
+    padding-left: 0;
+  }
+  .pl-30 {
+    padding-left: 0;
+  }
+  .pl-15 {
+    padding-left: 0;
+  }
+  .mr-20 {
+    margin-right: 15px;
+  }
+  .pr-20 {
+    padding-right: 0;
+  }
+  p {
+    font-size: 14px;
+  }
+  .form-control {
+    height: 45px;
+  }
+  .mb-30 {
+    margin-bottom: 30px;
+  }
+  body {
+    font-size: 15px;
+  }
+  .container-fluid {
+    max-width: 780px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+  }
+  .sass-default-btn {
+    padding: 10px 20px;
+  }
+  .go-top {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+  }
+  .go-top i {
+    font-size: 24px;
+  }
+  .sass-Banner-area {
+    padding-top: 110px;
+    padding-bottom: 60px;
+  }
+  .sass-banner-content h1 {
+    font-size: 45px;
+    margin-bottom: 15px;
+  }
+  .sass-banner-content p {
+    margin-bottom: 20px;
+  }
+  .sass-banner-content .sass-default-btn {
+    margin-bottom: 30px;
+  }
+  .sass-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .sass-section-title span {
+    font-size: 15px;
+    margin-bottom: 5px;
+  }
+  .sass-section-title h2 {
+    font-size: 24px;
+  }
+  .sass-single-features-card {
+    padding: 20px;
+  }
+  .sass-single-features-card img {
+    margin-bottom: 10px;
+  }
+  .sass-single-features-card h3 {
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
+  .sass-features-area .container .features-shape {
+    display: none;
+  }
+  .data-img {
+    margin-bottom: 20px;
+  }
+  .sass-data-content .data-section-title h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .sass-data-content .data-list ul li {
+    padding: 23px;
+    padding-left: 75px;
+    font-size: 14px;
+  }
+  .sass-data-content .data-list ul li .icon {
+    left: 12px;
+  }
+  .sass-solution-single-card {
+    padding: 20px;
+  }
+  .sass-solution-single-card .solution-content {
+    padding-left: 55px;
+  }
+  .sass-solution-single-card .solution-content h3 {
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
+  .sass-solution-single-card .solution-content p {
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+  .core-img .core-shape-2 {
+    display: none;
+  }
+  .core-statics-content {
+    margin-bottom: 30px;
+  }
+  .core-statics-content .statis-title h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .core-statics-content .core-list ul li h3 {
+    font-size: 20px;
+    margin-bottom: 13px;
+  }
+  .entro-video-area .video-shape {
+    display: none;
+  }
+  .single-counter-box .counter-content h1 {
+    font-size: 30px;
+  }
+  .pricing-area .container .pricing-shape {
+    display: none;
+  }
+  .pricing-area .tab .tabs {
+    margin: auto auto 30px auto;
+  }
+  .single-pricing-box {
+    padding: 30px 20px;
+  }
+  .single-pricing-box h1 {
+    font-size: 36px;
+  }
+  .single-pricing-box h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .single-pricing-box p {
+    margin-bottom: 20px;
+  }
+  .single-pricing-box .pricing-list {
+    margin-bottom: 25px;
+  }
+  .single-pricing-box .pricing-list ul li {
+    font-size: 14px;
+    margin-bottom: 11px;
+  }
+  .single-pricing-box .pricing-btn {
+    padding: 10px 50px;
+  }
+  .single-reviews-box {
+    padding: 0 20px 20px 20px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+  }
+  .single-reviews-box .reviews-top-content {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  .single-reviews-box .reviews-top-content .client-img {
+    top: -20px;
+  }
+  .single-reviews-box .reviews-bottom-content h3 {
+    font-size: 15px;
+    margin-bottom: 8px;
+  }
+  .single-reviews-box .reviews-bottom-content ul li {
+    padding-left: 0;
+  }
+  .single-reviews-box .reviews-bottom-content ul li i {
+    font-size: 10px;
+  }
+  .single-blog-card .blog-img span {
+    padding: 8px 18px;
+    font-size: 14px;
+    top: 20px;
+    right: 20px;
+  }
+  .single-blog-card .blog-content {
+    padding: 20px;
+  }
+  .single-blog-card .blog-content .name-and-date {
+    margin-bottom: 17px;
+  }
+  .single-blog-card .blog-content .name-and-date ul li {
+    padding-left: 17px;
+    margin-right: 10px;
+    font-size: 12px;
+  }
+  .single-blog-card .blog-content h2 {
+    font-size: 20px;
+    margin-bottom: 17px;
+  }
+  .single-blog-card .blog-content p {
+    margin-bottom: 17px;
+  }
+  .blog-area .shape .blog-shape-1 {
+    display: none;
+  }
+  .contact-and-subscribe-area .contact-widget {
+    padding: 20px;
+  }
+  .logo-area img {
+    margin-bottom: 20px;
+  }
+  .logo-area p {
+    margin-bottom: 22px;
+  }
+  .logo-area .social-links ul li {
+    margin-right: 12px;
+  }
+  .logo-area .social-links ul li a {
+    height: 40px;
+    width: 40px;
+    line-height: 43px;
+    font-size: 16px;
+  }
+  .logo-area.style5 .newsletter-form .currency-default-btn {
+    top: 0;
+    right: 0;
+    padding: 13px 20px;
+  }
+  .footer-widjet h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .footer-widjet .link-list ul li {
+    padding-left: 18px;
+    font-size: 14px;
+    margin-bottom: 11px;
+  }
+  .footer-widjet .link-list ul li i {
+    font-size: 12px;
+  }
+  .download-link h3 {
+    font-size: 20px;
+    margin-bottom: 25px;
+  }
+  .copy-right-area p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .agency-footer-area .footer-shape-1 {
+    display: none;
+  }
+  .agency-footer-area .footer-shape-2 {
+    display: none;
+  }
+  /*App Home
+======================================================*/
+  .app-banner-area {
+    padding-top: 115px;
+  }
+  .app-banner-content h1 {
+    font-size: 45px;
+  }
+  .app-banner-content .download-links {
+    text-align: left;
+  }
+  .app-banner-content .download-links ul li {
+    max-width: 130px;
+  }
+  .single-app-features-box .features-content {
+    padding: 20px;
+  }
+  .single-app-features-box .features-content i {
+    margin-bottom: 15px;
+  }
+  .single-app-features-box .features-content h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+  .acquaintance-img {
+    margin-bottom: 20px;
+  }
+  .acquaintance-content .acquaintance-title h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .acquaintance-content .acquaintance-list ul li {
+    padding-left: 60px;
+  }
+  .acquaintance-content .acquaintance-list ul li h3 {
+    font-size: 20px;
+  }
+  .design-content {
+    margin-bottom: 30px;
+  }
+  .design-content .design-title h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .design-image .doller {
+    padding: 20px;
+    right: 0;
+  }
+  .design-image .doller img {
+    margin-bottom: 12px;
+  }
+  .design-image .doller h1 {
+    font-size: 24px;
+  }
+  .app-single-pricing-card {
+    padding: 25px;
+  }
+  .app-single-pricing-card .pricing-top-content {
+    margin-bottom: 25px;
+  }
+  .app-single-pricing-card .pricing-top-content h2 {
+    font-size: 24px;
+  }
+  .app-reviews-content {
+    margin-bottom: 50px;
+  }
+  .app-reviews-section h2 {
+    font-size: 30px;
+  }
+  .app-reviews-box .clients-profile h3 {
+    font-size: 20px;
+  }
+  .app-reviews-img {
+    padding-right: 0px;
+  }
+  .app-reviews-img .video-player {
+    display: none;
+  }
+  .download-content {
+    margin-bottom: 50px;
+  }
+  .download-content .download-title h2 {
+    font-size: 30px;
+    margin-bottom: 18px;
+  }
+  .download-content .download-links {
+    text-align: left;
+  }
+  .download-content .download-links ul li img {
+    max-width: 150px;
+  }
+  .app-download-area::before {
+    display: none;
+  }
+  .single-team-card .team-content {
+    padding: 20px;
+  }
+  .class-for-frame .choose-img-frame {
+    display: none;
+  }
+  .choose-slider.owl-theme .owl-nav [class*=owl-] {
+    display: none;
+  }
+  .more-us-content {
+    padding: 20px;
+  }
+  .more-us-content .more-us-title h2 {
+    font-size: 27px;
+    margin-bottom: 26px;
+  }
+  .more-us-content .app-default-btn {
+    padding: 8px 10px;
+    text-align: center;
+  }
+  .app-single-blog-card .blog-content {
+    padding-top: 25px;
+  }
+  .app-single-blog-card .blog-content h3 {
+    font-size: 20px;
+    margin-bottom: 25px;
+  }
+  .app-single-blog-card .blog-content .date-and-comment {
+    margin-bottom: 15px;
+  }
+  .app-single-blog-card .blog-content .date-and-comment ul li {
+    font-size: 13px;
+  }
+  .download-links {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .download-links ul li img {
+    max-width: 136px;
+  }
+  .app-copy-right-area p {
+    text-align: center;
+  }
+  .agency-banner-area {
+    padding-top: 120px;
+  }
+  .agency-banner-content {
+    margin-bottom: 30px;
+  }
+  .agency-banner-content h1 {
+    font-size: 45px;
+    margin-bottom: 18px;
+  }
+  .agency-banner-content .agency-default-btn {
+    padding: 10px 20px;
+    font-size: 11px;
+  }
+  .trasted-content {
+    padding: 25px;
+  }
+  .trasted-content .trasted-text h3 {
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+  .agency-default-btn {
+    padding: 10px 20px;
+    font-size: 13px;
+  }
+  .agency-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .agency-section-title h2 {
+    font-size: 30px;
+  }
+  .agency-single-features-card {
+    padding: 20px;
+  }
+  .agency-single-features-card h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .agency-single-features-card p {
+    margin-bottom: 10px;
+  }
+  .agency-single-features-card .icon {
+    height: 70px;
+    width: 70px;
+    line-height: 80px;
+  }
+  .agency-features-area .container .features-shape-1 {
+    display: none;
+  }
+  .agency-about-image {
+    margin-bottom: 30px;
+  }
+  .agency-about-content .agency-about-title h2 {
+    font-size: 27px;
+    margin-bottom: 20px;
+  }
+  .agency-about-area .about-shape-3 {
+    display: none;
+  }
+  .agency-services-area .container-fluid {
+    left: 0;
+  }
+  .agency-single-services-card .services-content {
+    padding: 20px;
+  }
+  .agency-single-services-card .services-content h3 {
+    font-size: 20px;
+  }
+  .agency-single-services-card img {
+    width: 100% !important;
+  }
+  .services-slider.owl-theme .owl-nav [class*=owl-] {
+    right: 0;
+  }
+  .agency-choose-content .agency-choose-title h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .agency-choose-content .choose-list ul li h3 {
+    font-size: 19px;
+  }
+  .agency-counter-box .counter-content h1 {
+    font-size: 30px;
+  }
+  .agency-pricing-box {
+    padding: 25px;
+    border: 1px solid #eeeeee;
+    margin-bottom: 30px;
+  }
+  .agency-pricing-box:hover, .agency-pricing-box.active {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  .agency-pricing-tabs .tab_content {
+    background-color: unset;
+    -webkit-box-shadow: unset;
+            box-shadow: unset;
+  }
+  .agency-pricing-area .container .pricing-shape-1 {
+    display: none;
+  }
+  .agency-pricing-area .container .pricing-shape-2 {
+    display: none;
+  }
+  .agency-team-card .team-content .team-image {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .agency-team-card .team-content .team-caption {
+    padding: 25px;
+    position: unset;
+    border-radius: 0 0 10px 10px;
+  }
+  .agency-team-area .container .team-shape-2 {
+    display: none;
+  }
+  .agency-testimonial-card {
+    padding: 25px;
+  }
+  .agency-testimonial-area .testimonial-shape-1 {
+    display: none;
+  }
+  .agency-testimonial-area .testimonial-shape-3 {
+    display: none;
+  }
+  .agency-intro-video-area .video-shape-2 {
+    display: none;
+  }
+  .portfolio-card .portfolio-img .caption-one h3 {
+    font-size: 18px;
+  }
+  .portfolio-card .portfolio-img .caption-two {
+    padding: 20px;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+  }
+  .portfolio-card .portfolio-img .caption-two h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .portfolio-card .portfolio-img .caption-two p {
+    font-size: 13px;
+  }
+  .join-us-content {
+    padding-left: 0px;
+    padding-top: 20px;
+  }
+  .join-us-content h2 {
+    font-size: 30px;
+  }
+  .join-us-content .join-us-form .form-group {
+    margin-bottom: 25px;
+  }
+  .join-us-content .join-us-form .form-group .form-control {
+    border-radius: 10px;
+  }
+  .join-us-content .join-us-form .form-group .form-control.redius {
+    border-radius: 10px;
+  }
+  .join-us-content .join-us-form .form-group .agency-default-btn {
+    border-radius: 10px;
+  }
+  .join-us-img .join-us-shape-1 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .agency-blog-card .blog-content {
+    padding: 20px;
+  }
+  .agency-blog-card .blog-content h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .agency-blog-card .blog-content p {
+    margin-bottom: 15px;
+  }
+  .agency-blog-card .blog-content .list li {
+    font-size: 13px;
+  }
+  .agency-blog-area .container .blog-shape-1 {
+    display: none;
+  }
+  /*Consultings Home
+    ======================================================*/
+  .consulting-banner-area {
+    padding-top: 120px;
+  }
+  .consulting-banner-content {
+    margin-bottom: 20px;
+  }
+  .consulting-banner-content h1 {
+    font-size: 50px;
+  }
+  .consulting-banner-content p {
+    margin-bottom: 25px;
+  }
+  .consulting-banner-content .join-us-btn {
+    font-size: 15px;
+  }
+  .consulting-banner-content .join-us-btn i {
+    padding-right: 5px;
+  }
+  .consulting-banner-image .careear .content {
+    display: none;
+  }
+  .consulting-banner-image .month-stars {
+    width: 250px;
+  }
+  .consulting-default-btn {
+    padding: 10px 20px;
+  }
+  .features-content {
+    -webkit-box-shadow: unset;
+            box-shadow: unset;
+  }
+  .consulting-features-card {
+    text-align: center;
+    padding: 60px 20px 30px 20px;
+    position: relative;
+    border: 1px solid #eeeeee;
+    margin-bottom: 30px;
+    border-radius: 7px;
+  }
+  .consulting-features-card::before {
+    display: none;
+  }
+  .consulting-features-card h3 {
+    font-size: 18px;
+    margin-bottom: 13px;
+  }
+  .consulting-features-card p {
+    margin-bottom: 15px;
+  }
+  .consulting-features-area.ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  .consulting-about-image {
+    margin-bottom: 30px;
+  }
+  .consulting-about-image .customer {
+    padding: 20px;
+    right: 0;
+  }
+  .consulting-about-image .customer .customer-content h1 {
+    font-size: 26px;
+    margin-bottom: 8px;
+  }
+  .consulting-about-content .consulting-about-title span {
+    font-size: 14px;
+  }
+  .consulting-about-content .consulting-about-title h2 {
+    font-size: 30px;
+  }
+  .consulting-about-content .about-profile h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  .consulting-about-area .about-shape-2 {
+    display: none;
+  }
+  .consulting-services-card .services-img .icon {
+    font-size: 20px;
+    height: 50px;
+    width: 50px;
+    line-height: 55px;
+    bottom: -25px;
+  }
+  .consulting-services-card .services-content {
+    padding: 20px;
+    padding-top: 30px;
+  }
+  .consulting-services-card .services-content h3 {
+    font-size: 18px;
+    margin-bottom: 13px;
+  }
+  .consulting-services-card .services-content p {
+    margin-bottom: 13px;
+  }
+  .consulting-choose-content .choose-content-title span {
+    font-size: 14px;
+  }
+  .consulting-choose-content .choose-content-title h2 {
+    font-size: 30px;
+  }
+  .choose-counter-card .counter-content h1 {
+    font-size: 40px;
+  }
+  .consult-choose-img {
+    margin-right: 0;
+  }
+  .consult-choose-img .choose-shape-1 {
+    display: none;
+  }
+  .consulting-project-card .project-content h3 {
+    font-size: 20px;
+  }
+  .quote-content {
+    padding-left: 0;
+    padding-top: 80px;
+    margin-bottom: 30px;
+  }
+  .quote-content .quote-title h2 {
+    font-size: 30px;
+  }
+  .quote-content .consulting-default-btn {
+    padding: 10px 18px;
+  }
+  .quote-img {
+    padding-bottom: 80px;
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .consulting-team-card .team-content h3 {
+    font-size: 20px;
+  }
+  .consulting-testimonial-area .container .testimonial-shape-1 {
+    display: none;
+  }
+  .consulting-testimonial-card .icon {
+    font-size: 50px;
+    right: 20px;
+    top: 20px;
+    opacity: .3;
+    bottom: auto;
+  }
+  .consulting-join-content {
+    padding-left: 0;
+    margin-bottom: 30px;
+    border-left: 0;
+  }
+  .consulting-join-content h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .consulting-join-us-form .newsletter-form .form-control {
+    height: 44px;
+  }
+  .consulting-blog-card .blog-content {
+    padding-top: 25px;
+  }
+  .consulting-blog-card .blog-content .list {
+    margin-bottom: 15px;
+  }
+  .consulting-blog-card .blog-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  /*Photography Home
+======================================================*/
+  .photography-banner-area {
+    padding-top: 100px;
+  }
+  .photography-banner-content {
+    margin-bottom: 30px;
+    padding-left: 0;
+  }
+  .photography-banner-content h1 {
+    font-size: 45px;
+  }
+  .photography-banner-content p {
+    margin-bottom: 20px;
+  }
+  .photography-banner-img.owl-theme .owl-nav {
+    left: 0;
+    right: 0;
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+    bottom: 30px;
+    top: auto;
+  }
+  .photography-default-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  .photography-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .photography-section-title span {
+    font: 15px;
+    margin-bottom: 8px;
+  }
+  .photography-section-title h2 {
+    font-size: 30px;
+  }
+  .photograpy-services-card.mt-30 {
+    margin-top: 0;
+  }
+  .photograpy-services-card .services-content {
+    padding-top: 25px;
+  }
+  .photograpy-services-card .services-content span {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .photograpy-services-card .services-content h2 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .photography-about-area {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .photography-about-area .container .about-shape-1 {
+    display: none;
+  }
+  .photograpy-about-img {
+    margin-bottom: 30px;
+  }
+  .photograpy-about-content .photography-about-title h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .photograpy-video-content .video-text {
+    padding: 20px;
+  }
+  .photograpy-video-content .video-text h2 {
+    font-size: 26px;
+  }
+  .video-icon-content .icon {
+    display: none !important;
+  }
+  .photograpy-testimonial-card {
+    padding: 25px;
+  }
+  .photograpy-testimonial-card .rating {
+    margin-bottom: 12px;
+  }
+  .photograpy-testimonial-card h3 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .photograpy-testimonial-card .clients-profile h3 {
+    font-size: 18px;
+  }
+  .photography-team-card .team-caption1 {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .photography-team-card .team-caption1 h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .photography-team-card .team-caption2 {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .photography-team-card .team-caption2 h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .photography-pricing-card {
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+  .photography-pricing-card.active {
+    margin-top: 0;
+  }
+  .photography-pricing-card span {
+    font-size: 15px;
+    margin-bottom: 13px;
+  }
+  .photography-pricing-card h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  .photography-pricing-card .pricing-list li {
+    margin-bottom: 12px;
+  }
+  .photography-contact-form {
+    margin-bottom: 30px;
+  }
+  .photography-blog-card .blog-content {
+    padding-top: 20px;
+  }
+  .photography-blog-card .blog-content span {
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+  .photography-blog-card .blog-content h2 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .photography-fotter-area .photography-logo {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .photography-fotter-area .photography-quick-links {
+    margin-bottom: 25px;
+  }
+  .photography-fotter-area .photograpy-social-links .social-links {
+    text-align: center;
+  }
+  .photography-fotter-area .photograpy-social-links .social-links ul li a {
+    height: 40px;
+    width: 40px;
+    line-height: 43px;
+    font-size: 16px;
+  }
+  /*Coming Soon Home
+======================================================*/
+  .coming-soon-counter {
+    border: 10px solid #ffffff;
+    margin-bottom: 10px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+  }
+  .coming-soon-counter .shape-3 {
+    display: none;
+  }
+  .coming-soon-counter .list ul li {
+    font-size: 30px;
+  }
+  .coming-soon-counter .list ul li::before {
+    display: none;
+  }
+  .coming-soon-counter .list ul li::after {
+    display: none;
+  }
+  .coming-soon-counter::before {
+    display: none;
+  }
+  .coming-soon-area {
+    padding-top: 120px;
+  }
+  .coming-soon-area::before {
+    display: none;
+  }
+  .coming-soon-area .container .coming-soon-shape-1 {
+    display: none;
+  }
+  .coming-soon-area .container .coming-soon-shape-2 {
+    display: none;
+  }
+  .coming-soon-area .container .coming-soon-shape-5 {
+    display: none;
+  }
+  .coming-soon-content .top-content h1 {
+    font-size: 30px;
+  }
+  .coming-soon-content .newsletter-form .form-control {
+    height: 60px;
+  }
+  .coming-soon-content .newsletter-form .subscribe-btn {
+    top: 3px;
+    right: 3px;
+  }
+  /*Political Home
+    ======================================================*/
+  .plitical-header-area {
+    position: relative;
+  }
+  .navbar-light.nav-style7 .container-fluid {
+    padding: 15px;
+  }
+  .political-header-left-content {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .political-top-header-area {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .political-top-header-area .political-header-right-content {
+    text-align: center;
+  }
+  .political-default-btn {
+    padding: 10px 20px;
+    font-size: 15px;
+  }
+  .political-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .political-section-title span {
+    font-size: 14px;
+  }
+  .political-section-title h2 {
+    font-size: 30px;
+  }
+  .political-banner-area {
+    padding-top: 60px;
+  }
+  .political-banner-content h1 {
+    font-size: 45px;
+  }
+  .political-banner-content p {
+    margin-bottom: 25px;
+  }
+  .political-movement-card .movement-content {
+    padding-top: 20px;
+    padding-bottom: 0;
+  }
+  .political-movement-card .movement-content h1 {
+    font-size: 30px;
+  }
+  .political-about-image {
+    margin-bottom: 30px;
+    padding-left: 0;
+  }
+  .political-about-image .description-box {
+    bottom: 20px;
+    width: 280px;
+    padding: 20px;
+  }
+  .political-about-image .description-box h4 {
+    margin-bottom: 15px;
+  }
+  .political-about-image .description-box p {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  .political-about-image .description-box h3 {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  .political-about-content .political-about-title h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .political-about-content .text-content p {
+    margin-bottom: 15px;
+  }
+  .political-donation-content {
+    padding: 30px;
+  }
+  .political-donation-content .donate-text h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  .select-and-donate ul li .btn-outline-primary {
+    padding: 10px 20px;
+  }
+  .political-project-card .project-content {
+    padding: 20px;
+    padding-right: 40px;
+  }
+  .political-project-card .project-content h3 {
+    font-size: 18px;
+  }
+  .political-volunteer-card .volunteer-content {
+    padding: 20px;
+  }
+  .political-volunteer-card .volunteer-content h3 {
+    font-size: 20px;
+  }
+  .political-volunteer-card .volunteer-content p {
+    margin-bottom: 25px;
+  }
+  .freedom-contet {
+    padding-left: 15px;
+    padding-bottom: 30px;
+    padding-top: 50px;
+  }
+  .freedom-contet span {
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+  .freedom-contet h2 {
+    font-size: 30px;
+  }
+  .freedom-img img {
+    width: 100%;
+  }
+  .political-testimonial-card {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .political-testimonial-card .ratinig-star {
+    margin-bottom: 12px;
+  }
+  .political-testimonial-card p {
+    margin-bottom: 25px;
+  }
+  .political-testimonial-card .clients-profile h3 {
+    font-size: 18px;
+  }
+  .political-join-us-form {
+    padding: 20px;
+  }
+  .political-join-us-form h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .political-news-card .news-content {
+    padding-top: 20px;
+  }
+  .political-news-card .news-content h2 {
+    font-size: 20px;
+  }
+  .political-news-card .news-content .list {
+    margin-bottom: 12px;
+  }
+  /*Crypto Currency Home
+    ======================================================*/
+  .currency-banner-image .currency-form {
+    padding: 20px;
+    bottom: 10px;
+  }
+  .currency-banner-content {
+    margin-bottom: 70px;
+  }
+  .currency-banner-content h1 {
+    font-size: 45px;
+    margin-bottom: 20px;
+  }
+  .currency-banner-area {
+    padding-top: 120px;
+    overflow: hidden;
+  }
+  .currency-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .currency-section-title span {
+    font-size: 14px;
+  }
+  .currency-section-title h2 {
+    font-size: 30px;
+  }
+  .currency-featured-card {
+    padding: 20px;
+  }
+  .currency-about-image {
+    margin-bottom: 30px;
+  }
+  .currency-about-content .currency-about-title span {
+    font-size: 14px;
+  }
+  .currency-about-content .currency-about-title h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .currency-buy-card .curency-buy-content {
+    padding: 20px;
+  }
+  .currency-buy-card .curency-buy-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .bank-links {
+    margin-bottom: 30px;
+  }
+  .currency-download-area .container {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+  }
+  .currency-download-area .container::after {
+    display: none;
+  }
+  .currency-download-content .download-title span {
+    font-size: 14px;
+  }
+  .currency-download-content .download-title h2 {
+    font-size: 26px;
+    margin-bottom: 20px;
+  }
+  .currency-download-image {
+    margin-bottom: 30px;
+  }
+  .download-btn img {
+    width: 130px;
+  }
+  .currency-team-card .team-content {
+    padding: 20px;
+  }
+  .currency-coin-sell-content .coin-sell-title span {
+    font-size: 14px;
+  }
+  .currency-coin-sell-content .coin-sell-title h2 {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  .currency-coin-sell-content .coin-sell-title p {
+    margin-bottom: 10px;
+  }
+  .currency-time-list {
+    margin-bottom: 40px;
+  }
+  .currency-time-list ul li {
+    font-size: 20px;
+    height: 50px;
+    width: 60px;
+    margin: 20px 6px;
+  }
+  .currency-time-list ul li::before {
+    display: none;
+  }
+  .currency-time-list ul li::after {
+    display: none;
+  }
+  .currency-default-btn {
+    padding: 10px 20px;
+    font-size: 13px;
+  }
+  .currency-testimonial-card {
+    padding: 25px;
+    padding-bottom: 35px;
+  }
+  .currency-testimonial-card .cliens-profile h3 {
+    font-size: 17px;
+  }
+  .currency-testimonial-card .rating-list {
+    margin-bottom: 10px;
+  }
+  .currency-blog-card .blog-content h2 {
+    font-size: 19px;
+    margin-bottom: 18px;
+  }
+  .currency-blog-card .blog-content p {
+    margin-bottom: 18px;
+  }
+  .footer-widjet.style5.copany {
+    padding-left: 0;
+  }
+  .currecy-user-content img {
+    display: none;
+  }
+  .currecy-user-content .currency-user-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center !important;
+        -ms-flex-pack: center !important;
+            justify-content: center !important;
+    --bs-gutter-x: 12px;
+    --bs-gutter-y: 0;
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+  }
+  .currecy-user-content .currency-user-list li {
+    position: unset;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    width: 50%;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card {
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    padding: 30px;
+    border-radius: 7px;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card .user-content {
+    max-width: unset;
+    display: block;
+    visibility: visible;
+    position: unset;
+    padding: 0;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card .user-content::before {
+    display: none;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card .user-img {
+    margin-bottom: 20px;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card .user-img img {
+    display: block;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card .user-img::before {
+    display: none;
+  }
+  /*NFT Currency Home
+    ======================================================*/
+  .nft-banner-content {
+    padding-right: 0;
+    margin-bottom: 15px;
+  }
+  .nft-banner-content h1 {
+    font-size: 45px;
+  }
+  .nft-banner-content .nft-default-btn {
+    padding: 10px 15px;
+    font-size: 14px;
+  }
+  .nft-banner-image {
+    margin-left: 0;
+  }
+  .nft-banner-image img {
+    width: 100%;
+  }
+  .nft-banner-image .current-bid {
+    max-width: 240px;
+    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    bottom: 50px;
+  }
+  .nft-banner-image .current-bid .profile {
+    margin-bottom: 45px;
+  }
+  .nft-banner-image .current-bid .profile img {
+    width: auto;
+  }
+  .nft-banner-image .current-bid .profile h3 {
+    font-size: 16px;
+  }
+  .nft-section-title {
+    margin: -5px 0 35px 0;
+  }
+  .nft-section-title h2 {
+    font-size: 30px;
+  }
+  .nft-default-btn {
+    padding: 10px 20px;
+  }
+  .trnding-top-content .tranding-btn {
+    margin-bottom: 35px;
+  }
+  .nft-tranding-card .tranding-content {
+    padding: 20px;
+    padding-top: 45px;
+  }
+  .nft-tranding-card .tranding-content .left-content h3 {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .nft-tranding-card .tranding-content .left-content span {
+    font-size: 13px;
+  }
+  .nft-tranding-card .tranding-content .right-content h4 {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .nft-tranding-card .tranding-content .right-content span {
+    font-size: 13px;
+  }
+  .nft-tranding-card .tanding-img .tranding-list {
+    left: 20px;
+    bottom: -30px;
+  }
+  .nft-tranding-card .tanding-img .tranding-list ul li img {
+    height: 40px;
+    width: 40px;
+  }
+  .tranding-slider.owl-theme .owl-nav [class*=owl-] {
+    position: unset;
+    height: 30px;
+    width: 30px;
+    line-height: 33px;
+    font-size: 14px;
+  }
+  .top-sellers-top-content .top-sellers-btn {
+    margin-bottom: 35px;
+  }
+  .top-sellers-box {
+    padding: 20px;
+    display: block;
+  }
+  .top-sellers-box .row {
+    display: unset;
+  }
+  .top-sellers-box .row .col-8 {
+    width: unset;
+  }
+  .top-sellers-box .row .col-4 {
+    width: unset;
+  }
+  .top-sellers-box .row.align-items-center {
+    -webkit-box-align: unset !important;
+        -ms-flex-align: unset !important;
+            align-items: unset !important;
+  }
+  .top-sellers-box .seller-address {
+    margin-bottom: 30px;
+  }
+  .top-sellers-box .seller-address h3 {
+    font-size: 16px;
+  }
+  .top-sellers-box .sell span {
+    padding: 8px 15px;
+    font-size: 14px;
+  }
+  .nft-top-sellers-area .row.one {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .nft-top-sellers-area .row.one .top-sellers-box {
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .nft-top-sellers-area .row.two {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .nft-top-sellers-area .row.two .top-sellers-box {
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .auction-top-content .auction-btn {
+    margin-bottom: 35px;
+  }
+  .live-auction-card .auction-content {
+    padding: 20px;
+  }
+  .live-auction-card .auction-content h3 {
+    font-size: 20px;
+  }
+  .live-auction-card .auction-content ul li {
+    font-size: 14px;
+  }
+  .live-auction-card .auction-image .live-auctions-countdown li::before {
+    right: -11px;
+  }
+  .live-auction-card .auction-image .live-auctions-countdown li::after {
+    right: -11px;
+  }
+  .live-action-slider.owl-theme .owl-nav [class*=owl-] {
+    position: unset;
+    position: relative;
+    left: 0;
+    top: 20px;
+    height: 30px;
+    width: 30px;
+    line-height: 33px;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  .live-action-slider.owl-theme .owl-nav [class*=owl-].owl-next {
+    right: 0;
+  }
+  .creat-and-sell-card {
+    padding: 20px;
+  }
+  .creat-and-sell-card .number {
+    font-size: 70px;
+  }
+  .creat-and-sell-card h3 {
+    font-size: 20px;
+    margin-bottom: 17px;
+  }
+  .products-top-content .shoting-btn ul li button {
+    padding: 8px 13px;
+    font-size: 14px;
+  }
+  .nft-product-card .product-content {
+    padding: 20px;
+  }
+  .nft-product-card .product-content h3 {
+    font-size: 20px;
+    margin-bottom: 17px;
+  }
+  .nft-author-top-content .author-btn {
+    margin-bottom: 35px;
+  }
+  .nft-author-card .author-img .author-profile-img {
+    bottom: -45px;
+  }
+  .nft-author-card .author-img .author-profile-img img {
+    width: 100px;
+    height: 100px;
+  }
+  .nft-author-card .author-img .author-profile-img span {
+    margin-bottom: 20px;
+  }
+  .nft-author-card .author-img .author-profile-img ul li h3 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  .nft-author-card .author-content {
+    padding: 70px 20px 25px 20px;
+  }
+  .nft-author-card .author-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .collection-card .collction-top-content .author-profile h3 {
+    font-size: 20px;
+  }
+  .collection-card .collction-top-content .heart-and-number {
+    text-align: left;
+  }
+  .collection-card .collction-top-content .heart-and-number span {
+    font-size: 14px;
+    padding: 8px 13px;
+  }
+  /*Consultings Home
+    ======================================================*/
+  .exchange-header-left-content {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .exchange-header-left-content ul li {
+    margin-bottom: 7px;
+  }
+  .exchange-header-middle-content {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  .exchange-header-right-content {
+    text-align: center !important;
+  }
+  .currency-exchange-banner-content {
+    margin-bottom: 50px;
+  }
+  .currency-exchange-banner-content h1 {
+    font-size: 45px;
+    margin-bottom: 20px;
+  }
+  .currency-exchange-banner-content .banner-btn .exchange-default-btn {
+    padding: 10px 15px;
+    font-size: 14px;
+  }
+  .currency-exchange-banner-image .currency-converter-form {
+    background-color: #ffffff;
+    padding: 20px;
+    width: auto;
+    position: unset;
+  }
+  .currency-exchange-banner-image .currency-converter-form .form-group.icon-add1 img {
+    display: block;
+    top: 41px;
+  }
+  .currency-exchange-banner-image .currency-converter-form .form-group.icon-add2 img {
+    display: block;
+    top: 41px;
+  }
+  .currency-exchange-banner-image .banner-shape-1 {
+    display: none;
+  }
+  .currency-exchange-banner-image .banner-shape-2 {
+    display: none;
+  }
+  .currency-exchange-banner-image img {
+    display: none;
+  }
+  .exchange-default-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  .exchange-section-title {
+    margin: -5px auto 35px auto;
+  }
+  .exchange-section-title span {
+    font-size: 15px;
+  }
+  .exchange-section-title h2 {
+    font-size: 30px;
+  }
+  .exchange-features-image {
+    margin-bottom: 30px;
+  }
+  .exchange-features-card {
+    padding: 25px;
+  }
+  .exchange-features-card .top-content {
+    margin-bottom: 18px;
+  }
+  .exchange-features-card .top-content h3 {
+    font-size: 20px;
+  }
+  .exchainge-about-content {
+    margin-bottom: 30px;
+  }
+  .exchainge-about-content .exchainge-about-title h2 {
+    font-size: 23px;
+  }
+  .exchainge-about-content .about-text p {
+    margin-bottom: 15px;
+  }
+  .exchange-specialist-card .specialist-content {
+    padding: 25px;
+  }
+  .exchange-specialist-card .specialist-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .exchange-choose-card img {
+    margin-bottom: 20px;
+  }
+  .exchange-choose-card h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .exchange-testimonials-card {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .exchange-testimonials-card .clients-profile {
+    padding-left: 95px;
+  }
+  .exchange-testimonials-card .clients-profile h3 {
+    font-size: 18px;
+  }
+  .exchange-testimonials-card .icon {
+    top: 10px;
+    right: 15px;
+    bottom: auto;
+    opacity: .3;
+  }
+  .faq-accordion {
+    margin-bottom: 30px;
+  }
+  .faq-accordion .accordion .accordion-item {
+    margin-bottom: 20px;
+  }
+  .faq-accordion .accordion .accordion-item p {
+    font-size: 13px;
+  }
+  .faq-accordion .accordion .accordion-title {
+    font-size: 18px;
+  }
+  .exchange-blog-card .blog-contenet {
+    padding: 20px;
+  }
+  .exchange-blog-card .blog-contenet h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .exchange-blog-card .blog-contenet .list {
+    margin-bottom: 15px;
+  }
+  .exchange-blog-card .blog-contenet .list li {
+    margin-right: 15px;
+    font-size: 13px;
+    padding-left: 17px;
+  }
+  .page-banner-area {
+    padding-top: 120px;
+    padding-bottom: 80px;
+  }
+  .page-banner-area .page-banner-content h1 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .page-banner-area .page-banner-content ul li {
+    font-size: 15px;
+  }
+  .news-details .news-simple-card h2 {
+    font-size: 30px;
+    margin-bottom: 18px;
+  }
+  .news-details .news-simple-card p {
+    margin-bottom: 15px;
+  }
+  .news-details .theory .theory-box {
+    margin-bottom: 20px;
+  }
+  .comments {
+    padding-bottom: 0;
+    margin-bottom: 20px;
+  }
+  .comments h3 {
+    font-size: 20px;
+  }
+  .comments .single-comments-box {
+    padding: 0;
+  }
+  .comments img {
+    position: unset;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    margin-bottom: 20px;
+  }
+  .comments h4 {
+    margin-bottom: 8px;
+    font-size: 18px;
+  }
+  .comments .date {
+    margin-bottom: 15px;
+  }
+  .reply-area h3 {
+    font-size: 20px;
+  }
+  .reply-area .reply-form .form-group {
+    margin-bottom: 20px;
+  }
+  .services-details .real-health h3 {
+    font-size: 22px;
+    margin-bottom: 18px;
+  }
+  .services-details .this-services h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .services-details .this-services p {
+    margin-bottom: 18px;
+  }
+  .services-details .our-services h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .project-details-content .real-health h3 {
+    font-size: 23px;
+    margin-bottom: 18px;
+  }
+  .project-details-content .this-services h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .project-details-content .this-services p {
+    margin-bottom: 18px;
+  }
+  .project-details-content .our-services h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .project-details {
+    padding: 20px;
+  }
+  .project-details h3 {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  p {
+    font-size: 14px;
+  }
+  body {
+    font-size: 14px;
+  }
+  .container-fluid {
+    max-width: 1020px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+  }
+  .navbar-light .navbar-nav .nav-item {
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+  .navbar-light .navbar-nav .nav-item .nav-link {
+    font-size: 13px;
+  }
+  .switch-box {
+    margin-left: 20px;
+  }
+  .navbar .others-options a {
+    padding: 10px 20px;
+    margin-left: 30px;
+  }
+  .sass-default-btn {
+    padding: 10px 25px;
+  }
+  .agency-default-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  .sass-section-title h2 {
+    font-size: 30px;
+  }
+  .sass-Banner-area {
+    padding-top: 170px;
+    padding-bottom: 150px;
+  }
+  .sass-banner-content h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+  }
+  .sass-single-features-card {
+    padding: 20px;
+  }
+  .sass-single-features-card h3 {
+    font-size: 20px;
+    margin-bottom: 13px;
+  }
+  .sass-data-content .data-section-title h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .sass-data-content .data-list ul li {
+    padding: 20px;
+    margin-bottom: 15px;
+    padding-left: 70px;
+  }
+  .sass-data-content .data-list ul li .icon {
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+  }
+  .sass-solution-single-card {
+    padding: 20px;
+  }
+  .sass-solution-single-card .solution-content h3 {
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
+  .core-statics-content .statis-title h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .core-statics-content .core-list ul li h3 {
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
+  .single-counter-box .counter-content {
+    padding-left: 70px;
+  }
+  .single-counter-box .counter-content h1 {
+    font-size: 30px;
+  }
+  .single-counter-box .counter-content p {
+    font-size: 13px;
+  }
+  .single-counter-box .counter-content .icon i {
+    font-size: 45px;
+  }
+  .single-pricing-box {
+    padding: 40px 20px;
+  }
+  .single-pricing-box h1 {
+    font-size: 40px;
+  }
+  .single-pricing-box h3 {
+    margin-bottom: 22px;
+  }
+  .single-reviews-box {
+    padding: 0 20px 20px 20px;
+  }
+  .single-reviews-box .reviews-bottom-content h3 {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  .single-reviews-box .reviews-bottom-content p {
+    font-size: 13px;
+  }
+  .single-reviews-box .reviews-bottom-content ul li {
+    padding-left: 0;
+  }
+  .single-reviews-box .reviews-bottom-content ul li i {
+    font-size: 10px;
+  }
+  .single-blog-card .blog-content h2 {
+    font-size: 20px;
+  }
+  .app-banner-area {
+    padding-top: 130px;
+    padding-bottom: 30px;
+  }
+  .app-banner-content h1 {
+    font-size: 40px;
+  }
+  .app-section-title h2 {
+    font-size: 30px;
+  }
+  .single-app-features-box .features-content {
+    padding: 20px;
+  }
+  .single-app-features-box .features-content h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+  .acquaintance-content .acquaintance-title h2 {
+    font-size: 30px;
+    margin-bottom: 17px;
+  }
+  .acquaintance-content .acquaintance-title p {
+    margin-bottom: 20px;
+  }
+  .acquaintance-content .acquaintance-list {
+    margin-bottom: 30px;
+  }
+  .acquaintance-content .acquaintance-list ul li {
+    padding-left: 65px;
+  }
+  .acquaintance-content .acquaintance-list ul li h3 {
+    font-size: 20px;
+  }
+  .design-content .design-title h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .choose-slider.owl-theme .owl-nav [class*=owl-] {
+    left: -30px;
+  }
+  .choose-slider.owl-theme .owl-nav [class*=owl-].owl-next {
+    right: -30px;
+  }
+  .class-for-frame .choose-img-frame {
+    display: none;
+  }
+  .single-team-card .team-content .social-links ul li a {
+    height: 28px;
+    width: 28px;
+    line-height: 28px;
+    font-size: 13px;
+  }
+  .more-us-content .more-us-title h2 {
+    font-size: 30px;
+  }
+  .app-single-blog-card .blog-content .date-and-comment ul li {
+    font-size: 14px;
+  }
+  .app-single-blog-card .blog-content h3 {
+    font-size: 20px;
+  }
+  .app-copy-right-area .download-links ul li img {
+    max-width: 160px;
+  }
+  .agency-banner-area {
+    padding-top: 140px;
+  }
+  .agency-banner-content {
+    margin-bottom: 60px;
+  }
+  .agency-banner-content h1 {
+    font-size: 42px;
+    margin-bottom: 15px;
+  }
+  .agency-banner-content p {
+    margin-bottom: 20px;
+  }
+  .trasted-content {
+    padding: 40px;
+  }
+  .trasted-content .trasted-text h3 {
+    font-size: 20px;
+  }
+  .agency-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .agency-section-title h2 {
+    font-size: 30px;
+  }
+  .agency-single-features-card {
+    padding: 25px;
+  }
+  .agency-single-features-card h3 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .agency-single-features-card p {
+    margin-bottom: 10px;
+  }
+  .agency-about-area .about-shape-3 {
+    display: none;
+  }
+  .agency-about-content .agency-about-title h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .agency-about-content .agency-text {
+    margin-bottom: 25px;
+  }
+  .agency-about-content .agency-text p {
+    margin-bottom: 15px;
+  }
+  .agency-services-area .container-fluid {
+    left: 0;
+  }
+  .agency-single-services-card .services-content {
+    padding: 20px;
+    padding-left: 0;
+  }
+  .agency-single-services-card .services-content h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  .agency-single-services-card .services-content .icon {
+    height: 50px;
+    width: 50px;
+    line-height: 55px;
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .agency-single-services-card .services-content p {
+    margin-bottom: 10px;
+  }
+  .agency-single-services-card img {
+    width: 100% !important;
+  }
+  .services-slider.owl-theme .owl-nav [class*=owl-] {
+    right: 0;
+  }
+  .agency-choose-content .agency-choose-title h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .agency-choose-content .agency-choose-title p {
+    margin-bottom: 20px;
+  }
+  .agency-choose-content .choose-list ul li h3 {
+    font-size: 20px;
+  }
+  .portfolio-card .portfolio-img .caption-two {
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    padding: 20px;
+  }
+  .portfolio-card .portfolio-img .caption-two h3 {
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  .portfolio-card .portfolio-img .caption-two p {
+    font-size: 13px;
+  }
+  .portfolio-card .portfolio-img .caption-one h3 {
+    font-size: 18px;
+  }
+  .agency-counter-box {
+    padding: 15px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+  .agency-counter-box::before {
+    display: none;
+  }
+  .agency-counter-box .counter-content h1 {
+    font-size: 40px;
+  }
+  .agency-testimonial-area .testimonial-shape-2 {
+    display: none;
+  }
+  .agency-testimonial-card {
+    padding: 30px;
+  }
+  .agency-testimonial-card .testimonial-content .rating-star {
+    margin-bottom: 10px;
+  }
+  .agency-testimonial-card .testimonial-content p {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  .agency-testimonial-card .testimonial-content h3 {
+    font-size: 20px;
+  }
+  .agency-pricing-box {
+    padding: 20px;
+    border: 1px solid #eeeeee;
+    margin-bottom: 30px;
+  }
+  .agency-pricing-box:hover, .agency-pricing-box.active {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  .agency-pricing-box .pricing-content h1 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .agency-pricing-box .pricing-content h6 {
+    font-size: 20px;
+  }
+  .agency-pricing-box .popular {
+    top: 0;
+    right: 0;
+    border-radius: 5px;
+    padding: 4px 8px;
+    font-size: 10px;
+  }
+  .agency-pricing-box p {
+    margin-bottom: 15px;
+  }
+  .agency-pricing-box .pricing-list ul li {
+    padding-left: 20px;
+    margin-bottom: 10px;
+    font-size: 13px;
+  }
+  .agency-pricing-tabs .tab_content {
+    background-color: unset;
+    -webkit-box-shadow: unset;
+            box-shadow: unset;
+  }
+  .agency-pricing-area .container .pricing-shape-1 {
+    display: none;
+  }
+  .agency-pricing-area .container .pricing-shape-2 {
+    display: none;
+  }
+  .agency-team-card .team-content .team-caption {
+    padding: 20px;
+  }
+  .agency-team-card .team-content .team-caption h3 {
+    font-size: 20px;
+  }
+  .agency-team-area .container .team-shape-2 {
+    display: none;
+  }
+  .join-us-content {
+    padding-left: 30px;
+    margin-bottom: 15px;
+  }
+  .join-us-content h2 {
+    font-size: 30px;
+    margin-bottom: 18px;
+  }
+  .join-us-content .join-us-form .form-group .form-control {
+    height: 43px;
+  }
+  .join-us-img .join-us-shape-1 {
+    right: 0;
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .agency-blog-card .blog-content {
+    padding: 20px;
+  }
+  .agency-blog-card .blog-content h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .agency-blog-card .blog-content p {
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+  .agency-blog-card .blog-content .list li {
+    font-size: 13px;
+  }
+  .agency-blog-area .container .blog-shape-1 {
+    display: none;
+  }
+  .agency-subscribe h3 {
+    font-size: 19px;
+    margin-bottom: 30px;
+  }
+  .footer-widjet h3 {
+    font-size: 20px;
+  }
+  .footer-widjet .link-list ul li a {
+    font-size: 14px;
+  }
+  .logo-area p {
+    font-size: 14px;
+  }
+  .logo-area.style5 .newsletter-form .currency-default-btn {
+    padding: 18px 20px;
+  }
+  .agency-footer-area .footer-shape-1 {
+    display: none;
+  }
+  .agency-footer-area .footer-shape-2 {
+    display: none;
+  }
+  .single-instagram-card .instagram-img .caption .icon-and-text h3 {
+    font-size: 16px;
+  }
+  /*Consultings Home
+    ======================================================*/
+  .consulting-banner-content {
+    margin-bottom: 40px;
+  }
+  .consulting-banner-content h1 {
+    font-size: 50px;
+    margin-bottom: 15px;
+  }
+  .consulting-banner-image .month-stars {
+    width: 200px;
+    top: 100px;
+  }
+  .consulting-banner-image .careear .content {
+    width: 345px;
+  }
+  .consulting-default-btn {
+    padding: 10px 20px;
+  }
+  .consulting-features-card h3 {
+    font-size: 20px;
+  }
+  .consulting-section-title span {
+    font-size: 15px;
+  }
+  .consulting-section-title h2 {
+    font-size: 30px;
+  }
+  .consulting-about-content .consulting-about-title h2 {
+    font-size: 30px;
+  }
+  .consulting-about-content .download-btn {
+    font-size: 12px;
+    padding-left: 10px;
+  }
+  .consulting-about-area .about-shape-2 {
+    display: none;
+  }
+  .consulting-services-card .services-content h3 {
+    font-size: 20px;
+    margin-bottom: 17px;
+  }
+  .consulting-choose-content .choose-content-title span {
+    font-size: 15px;
+  }
+  .consulting-choose-content .choose-content-title h2 {
+    font-size: 30px;
+  }
+  .choose-counter-card .counter-content {
+    padding-left: 20px;
+  }
+  .choose-counter-card .counter-content h1 {
+    font-size: 36px;
+  }
+  .consult-choose-img .choose-shape-1 {
+    bottom: 0;
+  }
+  .quote-content .quote-title span {
+    font-size: 15px;
+  }
+  .quote-content .quote-title h2 {
+    font-size: 30px;
+  }
+  .consulting-join-content {
+    padding-left: 0;
+    border-left: 0;
+  }
+  .consulting-join-content h2 {
+    font-size: 30px;
+  }
+  .consulting-join-us-form .newsletter-form .consulting-default-btn {
+    padding: 15.3px 25px;
+    border: none;
+  }
+  .consulting-testimonial-card .icon {
+    font-size: 50px;
+    right: 20px;
+    top: 20px;
+    opacity: .3;
+    bottom: auto;
+  }
+  .consulting-blog-card .blog-content {
+    padding-top: 25px;
+  }
+  .consulting-blog-card .blog-content h3 {
+    font-size: 20px;
+  }
+  .consulting-blog-card .blog-content .list {
+    margin-bottom: 15px;
+  }
+  /*Photography Home
+======================================================*/
+  .photography-banner-area {
+    padding-top: 90px;
+  }
+  .photography-banner-content {
+    margin-bottom: 30px;
+  }
+  .photography-banner-content h1 {
+    font-size: 50px;
+  }
+  .photography-banner-content p {
+    margin-bottom: 20px;
+  }
+  .photography-banner-img.owl-theme .owl-nav {
+    left: -116%;
+    top: 37%;
+  }
+  .photography-default-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  .photography-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .photography-section-title span {
+    font: 15px;
+    margin-bottom: 8px;
+  }
+  .photography-section-title h2 {
+    font-size: 30px;
+  }
+  .photograpy-services-card.mt-30 {
+    margin-top: 0;
+  }
+  .photograpy-services-card .services-content {
+    padding-top: 25px;
+  }
+  .photograpy-services-card .services-content span {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .photograpy-services-card .services-content h2 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .photography-about-area {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .photography-about-area .container .about-shape-1 {
+    display: none;
+  }
+  .photograpy-about-img {
+    margin-bottom: 30px;
+  }
+  .photograpy-about-content .photography-about-title h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .photograpy-video-content .video-text {
+    padding: 20px;
+  }
+  .photograpy-video-content .video-text h2 {
+    font-size: 26px;
+  }
+  .photograpy-testimonial-card {
+    padding: 25px;
+  }
+  .photograpy-testimonial-card .rating {
+    margin-bottom: 12px;
+  }
+  .photograpy-testimonial-card h3 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .photograpy-testimonial-card .clients-profile h3 {
+    font-size: 18px;
+  }
+  .photography-team-card .team-caption1 {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .photography-team-card .team-caption1 h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .photography-team-card .team-caption2 {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .photography-team-card .team-caption2 h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .photography-pricing-card {
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+  .photography-pricing-card.active {
+    margin-top: 0;
+  }
+  .photography-pricing-card span {
+    font-size: 15px;
+    margin-bottom: 13px;
+  }
+  .photography-pricing-card h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  .photography-pricing-card .pricing-list li {
+    margin-bottom: 12px;
+  }
+  .photography-contact-form {
+    margin-bottom: 30px;
+  }
+  .photography-blog-card .blog-content {
+    padding-top: 20px;
+  }
+  .photography-blog-card .blog-content span {
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+  .photography-blog-card .blog-content h2 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .photography-fotter-area .photography-quick-links ul li {
+    margin-right: 10px;
+  }
+  .photography-fotter-area .photography-quick-links ul li a {
+    font-size: 14px;
+  }
+  .photography-fotter-area .photograpy-social-links .social-links {
+    text-align: right;
+  }
+  .photography-fotter-area .photograpy-social-links .social-links ul li a {
+    height: 40px;
+    width: 40px;
+    line-height: 43px;
+    font-size: 16px;
+  }
+  /*Coming Soon Home
+    ======================================================*/
+  .coming-soon-counter {
+    border: 10px solid #ffffff;
+    margin-bottom: 10px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+  }
+  .coming-soon-counter .shape-3 {
+    display: none;
+  }
+  .coming-soon-counter .list ul li {
+    font-size: 30px;
+  }
+  .coming-soon-counter .list ul li::before {
+    display: none;
+  }
+  .coming-soon-counter .list ul li::after {
+    display: none;
+  }
+  .coming-soon-counter::before {
+    display: none;
+  }
+  .coming-soon-area {
+    padding-top: 160px;
+  }
+  .coming-soon-area::before {
+    display: none;
+  }
+  .coming-soon-area .container .coming-soon-shape-1 {
+    display: none;
+  }
+  .coming-soon-area .container .coming-soon-shape-2 {
+    display: none;
+  }
+  .coming-soon-area .container .coming-soon-shape-5 {
+    display: none;
+  }
+  .coming-soon-content.ptb-100 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .coming-soon-content .top-content h1 {
+    font-size: 30px;
+  }
+  .coming-soon-content .newsletter-form .form-control {
+    height: 60px;
+  }
+  .coming-soon-content .newsletter-form .subscribe-btn {
+    top: 3px;
+    right: 3px;
+  }
+  /*Political Home
+    ======================================================*/
+  .navbar-light.nav-style7 .container-fluid {
+    padding: 15px;
+  }
+  .navbar .others-options.style4 a {
+    font-size: 12px;
+  }
+  .political-header-left-content ul li {
+    font-size: 12px;
+    margin-right: 15px;
+  }
+  .political-default-btn {
+    padding: 10px 20px;
+    font-size: 15px;
+  }
+  .political-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .political-section-title span {
+    font-size: 14px;
+  }
+  .political-section-title h2 {
+    font-size: 30px;
+  }
+  .political-banner-area {
+    padding-top: 220px;
+  }
+  .political-banner-content {
+    margin-bottom: 100px;
+  }
+  .political-banner-content h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  .political-banner-content p {
+    margin-bottom: 25px;
+  }
+  .political-movement-card .movement-content {
+    padding-top: 20px;
+    padding-bottom: 0;
+  }
+  .political-movement-card .movement-content h1 {
+    font-size: 30px;
+  }
+  .political-about-image {
+    margin-bottom: 30px;
+    padding-left: 0;
+  }
+  .political-about-image .description-box {
+    bottom: 20px;
+    width: 280px;
+    padding: 20px;
+  }
+  .political-about-image .description-box h4 {
+    margin-bottom: 15px;
+  }
+  .political-about-image .description-box p {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  .political-about-image .description-box h3 {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  .political-about-content .political-about-title h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .political-about-content .text-content p {
+    margin-bottom: 15px;
+  }
+  .political-donation-content {
+    padding: 30px;
+  }
+  .political-donation-content .donate-text h2 {
+    font-size: 24px;
+  }
+  .select-and-donate ul li .btn-outline-primary {
+    padding: 10px 20px;
+  }
+  .political-donation-and-video-area::after {
+    height: 70px;
+  }
+  .political-project-card .project-content {
+    padding: 20px;
+    padding-right: 40px;
+  }
+  .political-project-card .project-content h3 {
+    font-size: 18px;
+  }
+  .political-volunteer-card .volunteer-content {
+    padding: 20px;
+  }
+  .political-volunteer-card .volunteer-content h3 {
+    font-size: 20px;
+  }
+  .political-volunteer-card .volunteer-content p {
+    margin-bottom: 25px;
+  }
+  .freedom-contet {
+    padding-left: 30px;
+  }
+  .freedom-contet span {
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+  .freedom-contet h2 {
+    font-size: 30px;
+  }
+  .freedom-img img {
+    width: 100%;
+  }
+  .political-testimonial-card {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .political-testimonial-card .ratinig-star {
+    margin-bottom: 12px;
+  }
+  .political-testimonial-card p {
+    margin-bottom: 25px;
+  }
+  .political-testimonial-card .clients-profile h3 {
+    font-size: 18px;
+  }
+  .political-join-us-form {
+    padding: 20px;
+  }
+  .political-join-us-form h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .political-news-card .news-content {
+    padding-top: 20px;
+  }
+  .political-news-card .news-content h2 {
+    font-size: 20px;
+  }
+  .political-news-card .news-content .list {
+    margin-bottom: 12px;
+  }
+  /*Crypto Currency Home
+    ======================================================*/
+  .navbar-light.nav-style8 .others-options {
+    margin-left: 30px;
+  }
+  .navbar-light.nav-style8 .others-options ul li a {
+    padding: 10px 14px;
+    font-size: 14px;
+  }
+  .currency-banner-image .currency-form {
+    padding: 20px;
+    bottom: 10px;
+  }
+  .currency-exchange-banner-image .banner-shape-1 {
+    display: none;
+  }
+  .currency-exchange-banner-image .banner-shape-2 {
+    display: none;
+  }
+  .currency-exchange-banner-content {
+    margin-bottom: 70px;
+  }
+  .currency-exchange-banner-content h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  .currency-exchange-banner-content p {
+    font-size: 13px;
+  }
+  .currency-banner-content h1 {
+    font-size: 50px;
+  }
+  .currency-banner-area {
+    padding-top: 145px;
+    overflow: hidden;
+  }
+  .currency-section-title {
+    margin: -5px auto 30px auto;
+  }
+  .currency-section-title span {
+    font-size: 14px;
+  }
+  .currency-section-title h2 {
+    font-size: 30px;
+  }
+  .exchange-default-btn {
+    padding: 12px 25px;
+  }
+  .currency-featured-card {
+    padding: 20px;
+  }
+  .currency-about-image {
+    margin-bottom: 30px;
+  }
+  .currency-about-content .currency-about-title span {
+    font-size: 14px;
+  }
+  .currency-about-content .currency-about-title h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .currency-buy-card .curency-buy-content {
+    padding: 20px;
+  }
+  .currency-buy-card .curency-buy-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .bank-links {
+    margin-bottom: 30px;
+  }
+  .currency-download-area .container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .currency-download-content .download-title span {
+    font-size: 14px;
+  }
+  .currency-download-content .download-title h2 {
+    font-size: 26px;
+    margin-bottom: 20px;
+  }
+  .currency-download-image {
+    margin-bottom: 30px;
+  }
+  .download-btn img {
+    width: 130px;
+  }
+  .currency-team-card .team-content {
+    padding: 20px;
+  }
+  .currency-coin-sell-content .coin-sell-title span {
+    font-size: 14px;
+  }
+  .currency-coin-sell-content .coin-sell-title h2 {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  .currency-coin-sell-content .coin-sell-title p {
+    margin-bottom: 10px;
+  }
+  .currency-time-list {
+    margin-bottom: 40px;
+  }
+  .currency-time-list ul li {
+    font-size: 20px;
+    height: 50px;
+    width: 60px;
+    margin: 20px 6px;
+  }
+  .currency-time-list ul li::before {
+    display: none;
+  }
+  .currency-time-list ul li::after {
+    display: none;
+  }
+  .currency-default-btn {
+    padding: 10px 20px;
+    font-size: 13px;
+  }
+  .currency-testimonial-card {
+    padding: 25px;
+    padding-bottom: 35px;
+  }
+  .currency-testimonial-card .cliens-profile h3 {
+    font-size: 17px;
+  }
+  .currency-testimonial-card .rating-list {
+    margin-bottom: 10px;
+  }
+  .currency-blog-card .blog-content h2 {
+    font-size: 19px;
+    margin-bottom: 18px;
+  }
+  .currency-blog-card .blog-content p {
+    margin-bottom: 18px;
+  }
+  .footer-widjet.style5.copany {
+    padding-left: 0;
+  }
+  .footer-widjet.style6 .link-list ul li a {
+    font-size: 13px;
+  }
+  .currecy-user-content img {
+    display: none;
+  }
+  .currecy-user-content .currency-user-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center !important;
+        -ms-flex-pack: center !important;
+            justify-content: center !important;
+    --bs-gutter-x: 12px;
+    --bs-gutter-y: 0;
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+  }
+  .currecy-user-content .currency-user-list li {
+    position: unset;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    width: 33.33%;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card {
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    padding: 30px;
+    border-radius: 7px;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card .user-content {
+    max-width: unset;
+    display: block;
+    visibility: visible;
+    position: unset;
+    padding: 0;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card .user-content::before {
+    display: none;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card .user-img {
+    margin-bottom: 20px;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card .user-img img {
+    display: block;
+  }
+  .currecy-user-content .currency-user-list li .currency-user-card .user-img::before {
+    display: none;
+  }
+  /*NFT Currency Home
+    ======================================================*/
+  .nft-banner-content {
+    padding-right: 0;
+    margin-bottom: 40px;
+  }
+  .nft-banner-content h1 {
+    font-size: 45px;
+  }
+  .nft-banner-content .nft-default-btn {
+    padding: 10px 15px;
+    font-size: 14px;
+  }
+  .nft-banner-image .current-bid {
+    left: -50px;
+  }
+  .nft-section-title {
+    margin: -5px 0 35px 0;
+  }
+  .nft-section-title h2 {
+    font-size: 30px;
+  }
+  .trnding-top-content .tranding-btn {
+    margin-bottom: 35px;
+  }
+  .nft-tranding-card .tranding-content {
+    padding: 20px;
+    padding-top: 45px;
+  }
+  .nft-tranding-card .tranding-content .left-content h3 {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .nft-tranding-card .tranding-content .left-content span {
+    font-size: 13px;
+  }
+  .nft-tranding-card .tranding-content .right-content h4 {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .nft-tranding-card .tranding-content .right-content span {
+    font-size: 13px;
+  }
+  .nft-tranding-card .tanding-img .tranding-list {
+    left: 20px;
+    bottom: -30px;
+  }
+  .nft-tranding-card .tanding-img .tranding-list ul li img {
+    height: 40px;
+    width: 40px;
+  }
+  .tranding-slider.owl-theme .owl-nav [class*=owl-] {
+    position: unset;
+    height: 30px;
+    width: 30px;
+    line-height: 33px;
+    font-size: 14px;
+  }
+  .top-sellers-top-content .top-sellers-btn {
+    margin-bottom: 35px;
+  }
+  .top-sellers-box {
+    padding: 20px;
+    display: block;
+  }
+  .top-sellers-box .row {
+    display: unset;
+  }
+  .top-sellers-box .row .col-8 {
+    width: unset;
+  }
+  .top-sellers-box .row .col-4 {
+    width: unset;
+  }
+  .top-sellers-box .row.align-items-center {
+    -webkit-box-align: unset !important;
+        -ms-flex-align: unset !important;
+            align-items: unset !important;
+  }
+  .top-sellers-box .seller-address {
+    margin-bottom: 30px;
+  }
+  .top-sellers-box .seller-address h3 {
+    font-size: 16px;
+  }
+  .top-sellers-box .sell span {
+    padding: 8px 15px;
+    font-size: 14px;
+  }
+  .nft-top-sellers-area .row.one {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .nft-top-sellers-area .row.one .top-sellers-box {
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .nft-top-sellers-area .row.two {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .nft-top-sellers-area .row.two .top-sellers-box {
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .auction-top-content .auction-btn {
+    margin-bottom: 35px;
+  }
+  .live-auction-card .auction-content {
+    padding: 20px;
+  }
+  .live-auction-card .auction-content h3 {
+    font-size: 20px;
+  }
+  .live-auction-card .auction-content ul li {
+    font-size: 14px;
+  }
+  .live-auction-card .auction-image .live-auctions-countdown li::before {
+    right: -11px;
+  }
+  .live-auction-card .auction-image .live-auctions-countdown li::after {
+    right: -11px;
+  }
+  .live-action-slider.owl-theme .owl-nav [class*=owl-] {
+    position: unset;
+    position: relative;
+    left: 0;
+    top: 20px;
+    height: 30px;
+    width: 30px;
+    line-height: 33px;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  .live-action-slider.owl-theme .owl-nav [class*=owl-].owl-next {
+    right: 0;
+  }
+  .creat-and-sell-card {
+    padding: 20px;
+  }
+  .creat-and-sell-card .number {
+    font-size: 70px;
+  }
+  .creat-and-sell-card h3 {
+    font-size: 20px;
+    margin-bottom: 17px;
+  }
+  .products-top-content .shoting-btn ul li button {
+    padding: 8px 13px;
+    font-size: 14px;
+  }
+  .nft-product-card .product-content {
+    padding: 20px;
+  }
+  .nft-product-card .product-content h3 {
+    font-size: 18px;
+    margin-bottom: 17px;
+  }
+  .nft-product-card .product-content .img-and-bid {
+    padding-left: 100px;
+  }
+  .nft-product-card .product-content .img-and-bid span {
+    font-size: 11px;
+  }
+  .nft-product-card .product-content .img-and-bid .img-list li img {
+    height: 35px;
+    width: 35px;
+  }
+  .nft-product-card .product-img .products-bid-btn {
+    left: 10%;
+  }
+  .nft-author-top-content .author-btn {
+    margin-bottom: 35px;
+  }
+  .nft-author-card .author-img .author-profile-img {
+    bottom: -45px;
+  }
+  .nft-author-card .author-img .author-profile-img img {
+    width: 100px;
+    height: 100px;
+  }
+  .nft-author-card .author-img .author-profile-img span {
+    margin-bottom: 20px;
+  }
+  .nft-author-card .author-content {
+    padding: 70px 20px 25px 20px;
+  }
+  .nft-author-card .author-content h3 {
+    font-size: 20px !important;
+    margin-bottom: 15px;
+  }
+  .collection-card .collction-top-content .author-profile {
+    padding-left: 48px;
+  }
+  .collection-card .collction-top-content .author-profile img {
+    height: 40px;
+    width: 40px;
+  }
+  .collection-card .collction-top-content .author-profile h3 {
+    font-size: 16px;
+  }
+  .collection-card .collction-top-content .author-profile span {
+    font-size: 11px;
+  }
+  .collection-card .collction-top-content .heart-and-number span {
+    font-size: 14px;
+    padding: 8px 13px;
+  }
+  /*Currency Exchange Home
+    ======================================================*/
+  .currency-exchaange-banner {
+    padding-top: 100px;
+    padding-bottom: 20px;
+  }
+  .currency-exchange-banner-content h1 {
+    font-size: 45px;
+    margin-bottom: 20px;
+  }
+  .currency-exchange-banner-image .currency-converter-form {
+    padding: 20px;
+    width: 300px;
+    bottom: 0;
+  }
+  .exchange-section-title h2 {
+    font-size: 30px;
+  }
+  .exchange-features-card {
+    padding: 20px;
+  }
+  .exchange-features-card .top-content h3 {
+    font-size: 20px;
+  }
+  .exchange-features-card p {
+    font-size: 13px;
+  }
+  .exchainge-about-content .exchainge-about-title h2 {
+    font-size: 30px;
+  }
+  .exchange-specialist-card .specialist-content {
+    padding: 25px;
+  }
+  .exchange-specialist-card .specialist-content h3 {
+    font-size: 18px;
+    margin-bottom: 13px;
+  }
+  .exchange-choose-card h3 {
+    font-size: 16px;
+    margin-bottom: 13px;
+  }
+  .exchange-testimonials-card {
+    padding: 25px;
+  }
+  .exchange-testimonials-card .icon {
+    bottom: auto;
+    top: 15px;
+    right: 20px;
+    opacity: .4;
+  }
+  .exchange-testimonials-card p {
+    font-size: 14px;
+  }
+  .exchange-testimonials-card .clients-profile h3 {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  .faq-accordion .accordion .accordion-title {
+    font-size: 18px;
+  }
+  .exchange-blog-card .blog-contenet {
+    padding: 20px;
+  }
+  .exchange-blog-card .blog-contenet .list {
+    margin-bottom: 15px;
+  }
+  .exchange-blog-card .blog-contenet .list li {
+    font-size: 12px;
+  }
+  .exchange-blog-card .blog-contenet h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .page-banner-area {
+    padding-top: 140px;
+    padding-bottom: 100px;
+  }
+  .page-banner-area .page-banner-content h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+  }
+  .page-banner-area .page-banner-content ul li {
+    font-size: 15px;
+  }
+  .news-details .news-simple-card h2 {
+    font-size: 30px;
+    margin-bottom: 18px;
+  }
+  .news-details .news-simple-card p {
+    margin-bottom: 15px;
+  }
+  .news-details .theory .theory-box {
+    margin-bottom: 20px;
+  }
+  .comments .single-comments-box {
+    margin-bottom: 25px;
+  }
+  .comments .date {
+    margin-bottom: 15px;
+  }
+  .reply-area h3 {
+    font-size: 20px;
+  }
+  .reply-area .reply-form .form-group {
+    margin-bottom: 20px;
+  }
+  .project-details {
+    padding: 20px;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  p {
+    font-size: 15px;
+  }
+  body {
+    font-size: 15px;
+  }
+  .sass-section-title h2 {
+    font-size: 36px;
+  }
+  .core-statics-content .statis-title h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .sass-banner-content h1 {
+    font-size: 55px;
+  }
+  .single-reviews-box .reviews-bottom-content h3 {
+    font-size: 17px;
+  }
+  .single-reviews-box .reviews-bottom-content ul li i {
+    font-size: 13px;
+  }
+  .app-banner-content h1 {
+    font-size: 50px;
+  }
+  .single-team-card .team-content {
+    padding: 25px;
+  }
+  .choose-slider.owl-theme .owl-nav [class*=owl-] {
+    left: -30px;
+  }
+  .choose-slider.owl-theme .owl-nav [class*=owl-].owl-next {
+    right: -30px;
+  }
+  .agency-banner-content h1 {
+    font-size: 50px;
+    margin-bottom: 15px;
+  }
+  .agency-banner-content p {
+    margin-bottom: 25px;
+  }
+  .trasted-content {
+    padding: 40px;
+  }
+  .agency-section-title {
+    margin: -5px auto 35px auto;
+  }
+  .agency-section-title h2 {
+    font-size: 36px;
+  }
+  .agency-about-area .about-shape-3 {
+    display: none;
+  }
+  .agency-about-content .agency-about-title h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .agency-services-area .container-fluid {
+    left: 0;
+  }
+  .services-slider.owl-theme .owl-nav [class*=owl-] {
+    right: 0;
+  }
+  .agency-single-services-card .services-content {
+    padding: 0;
+    padding-left: 0;
+  }
+  .agency-single-services-card .services-content h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  .agency-single-services-card .services-content .icon {
+    height: 50px;
+    width: 50px;
+    line-height: 55px;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .agency-single-services-card .services-content p {
+    margin-bottom: 8px;
+    font-size: 13px;
+  }
+  .agency-single-services-card img {
+    width: 100% !important;
+  }
+  .agency-choose-content .agency-choose-title h2 {
+    font-size: 36px;
+  }
+  .portfolio-card .portfolio-img .caption-two h3 {
+    font-size: 17px;
+  }
+  .portfolio-card .portfolio-img .caption-two p {
+    font-size: 14px;
+  }
+  .agency-counter-box .counter-content h1 {
+    font-size: 36px;
+  }
+  .agency-pricing-box {
+    padding: 30px;
+  }
+  .agency-pricing-box .popular {
+    top: 10px;
+    right: 10px;
+    padding: 4px 8px;
+    font-size: 10px;
+  }
+  .agency-pricing-area {
+    overflow: hidden;
+  }
+  .agency-team-area .container .team-shape-2 {
+    display: none;
+  }
+  .join-us-content {
+    padding-left: 40px;
+    margin-bottom: 10px;
+  }
+  .join-us-content h2 {
+    font-size: 40px;
+  }
+  .join-us-img .join-us-shape-1 {
+    right: 0;
+    -webkit-animation: unset;
+            animation: unset;
+  }
+  .agency-blog-card .blog-content {
+    padding: 25px;
+  }
+  .agency-blog-card .blog-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .agency-blog-card .blog-content p {
+    margin-bottom: 15px;
+  }
+  .agency-blog-area .container .blog-shape-1 {
+    display: none;
+  }
+  .agency-footer-area .footer-shape-1 {
+    display: none;
+  }
+  .agency-footer-area .footer-shape-2 {
+    display: none;
+  }
+  /*Consultings Home
+    ======================================================*/
+  .consulting-banner-content {
+    margin-bottom: 30px;
+  }
+  .consulting-banner-content h1 {
+    font-size: 60px;
+  }
+  .consulting-banner-content p {
+    font-size: 14px;
+  }
+  .consulting-banner-image .month-stars {
+    width: 230px;
+  }
+  .consulting-banner-image .careear .content {
+    width: 350px;
+  }
+  .consulting-about-area .about-shape-2 {
+    display: none;
+  }
+  .consulting-testimonial-card .icon {
+    font-size: 50px;
+    right: 20px;
+    bottom: auto;
+    top: 15px;
+    opacity: .3;
+  }
+  /*Photography Home
+======================================================*/
+  .photography-banner-content h1 {
+    font-size: 60px;
+  }
+  .photography-banner-img.owl-theme .owl-nav {
+    left: 0;
+    right: 0;
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+    bottom: 40px;
+    top: auto;
+  }
+  .photography-section-title span {
+    font-size: 15px;
+  }
+  .photography-section-title h2 {
+    font-size: 36px;
+  }
+  .photograpy-services-card .services-content {
+    padding-top: 25px;
+  }
+  .photograpy-services-card .services-content span {
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+  .photograpy-services-card .services-content h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .photograpy-about-content .photography-about-title h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .photograpy-video-content .video-text h2 {
+    font-size: 36px;
+  }
+  .photography-team-card .team-caption1 {
+    padding: 20px;
+    padding-bottom: 30px;
+  }
+  .photography-team-card .team-caption1 h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  /*Coming Soon Home
+    ======================================================*/
+  .coming-soon-content .top-content h1 {
+    font-size: 38px;
+  }
+  /*Political Home
+    ======================================================*/
+  .political-banner-content h1 {
+    font-size: 60px;
+  }
+  .political-section-title {
+    margin: -5px auto 35px auto;
+  }
+  .political-section-title h2 {
+    font-size: 36px;
+  }
+  .political-movement-card .movement-content {
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+  .political-movement-card .movement-content h1 {
+    font-size: 30px;
+  }
+  .political-about-content .political-about-title span {
+    font-size: 14px;
+  }
+  .political-about-content .political-about-title h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .political-project-card .project-content {
+    padding: 20px;
+    padding-right: 20px;
+  }
+  .political-project-card .project-content h3 {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  /*Currency Home
+    ======================================================*/
+  .currency-banner-area {
+    padding-top: 165px;
+  }
+  .currency-banner-content h1 {
+    font-size: 55px;
+  }
+  .currency-banner-image .currency-form {
+    bottom: 110px;
+  }
+  .currency-section-title {
+    margin: -5px auto 35px auto;
+  }
+  .currency-section-title h2 {
+    font-size: 35px;
+  }
+  .currency-about-content .currency-about-title h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .currency-time-list {
+    margin-bottom: 60px;
+  }
+  .currency-time-list ul li {
+    margin: 0 20px;
+    font-size: 25px;
+  }
+  .currecy-user-content .currency-user-list li:nth-child(9) {
+    left: 870px;
+    top: 73%;
+  }
+  /*NFT Currency Home
+    ======================================================*/
+  .nft-banner-content {
+    padding-right: 0;
+  }
+  .nft-banner-content h1 {
+    font-size: 55px;
+  }
+  .nft-banner-image .current-bid {
+    left: -50px;
+  }
+  .nft-tranding-card .tanding-img .tranding-list {
+    bottom: -30px;
+  }
+  .nft-tranding-card .tranding-content .left-content h3 {
+    font-size: 17px;
+  }
+  .nft-tranding-card .tranding-content .left-content span {
+    font-size: 13px;
+  }
+  .nft-tranding-card .tranding-content .right-content span {
+    font-size: 13px;
+  }
+  .tranding-slider.owl-theme .owl-nav [class*=owl-] {
+    left: -30px;
+  }
+  .tranding-slider.owl-theme .owl-nav [class*=owl-].owl-next {
+    right: -30px;
+  }
+  .top-sellers-top-content .top-sellers-btn {
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  .top-sellers-box {
+    padding: 20px;
+    display: block;
+  }
+  .top-sellers-box .row {
+    display: unset;
+  }
+  .top-sellers-box .row .col-8 {
+    width: unset;
+  }
+  .top-sellers-box .row .col-4 {
+    width: unset;
+  }
+  .top-sellers-box .row.align-items-center {
+    -webkit-box-align: unset !important;
+        -ms-flex-align: unset !important;
+            align-items: unset !important;
+  }
+  .top-sellers-box .seller-address {
+    margin-bottom: 30px;
+  }
+  .top-sellers-box .seller-address h3 {
+    font-size: 17px;
+  }
+  .top-sellers-box .sell span {
+    padding: 8px 15px;
+    font-size: 14px;
+  }
+  .auction-top-content .auction-btn {
+    margin-bottom: 30px;
+  }
+  .live-auction-card .auction-content {
+    padding: 20px;
+  }
+  .live-auction-card .auction-content .top-content .img-list li img {
+    height: 30px;
+    width: 30px;
+  }
+  .live-auction-card .auction-content .top-content span {
+    font-size: 12px;
+  }
+  .live-auction-card .auction-content h3 {
+    font-size: 20px;
+  }
+  .live-auction-card .auction-content ul li {
+    font-size: 14px;
+  }
+  .live-auction-card .auction-image .live-auctions-countdown li span {
+    width: 40px;
+  }
+  .live-auction-card .auction-image .live-auctions-countdown li::before {
+    right: -11px;
+  }
+  .live-auction-card .auction-image .live-auctions-countdown li::after {
+    right: -11px;
+  }
+  .live-action-slider.owl-theme .owl-nav [class*=owl-] {
+    left: -30px;
+  }
+  .live-action-slider.owl-theme .owl-nav [class*=owl-].owl-next {
+    right: -30px;
+  }
+  .nft-product-card .product-content h3 {
+    font-size: 20px;
+  }
+  .nft-product-card .product-content .img-and-bid {
+    padding-left: 110px;
+  }
+  .nft-product-card .product-content .img-and-bid .img-list li img {
+    width: 37px;
+    height: 37px;
+  }
+  .collection-card .collction-top-content .author-profile h3 {
+    font-size: 19px;
+  }
+  .collection-card .collction-top-content .author-profile span {
+    font-size: 13px;
+  }
+  /*Currency Home
+    ======================================================*/
+  .currency-exchange-banner-content h1 {
+    font-size: 55px;
+    margin-bottom: 20px;
+  }
+  .currency-exchange-banner-image .currency-converter-form {
+    padding: 25px;
+    width: 320px;
+    left: 30px;
+    bottom: 50px;
+  }
+  .exchange-choose-card h3 {
+    font-size: 20px;
+    margin-bottom: 16px;
+  }
+  .faq-accordion .accordion {
+    padding: 20px;
+  }
+  .faq-accordion .accordion .accordion-title {
+    font-size: 17px;
+  }
+  .exchange-blog-card .blog-contenet h3 {
+    font-size: 20px;
+  }
+  .exchange-blog-card .blog-contenet .list li {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1750px) {
+  .photography-banner-img.owl-theme .owl-nav {
+    left: 0;
+    right: 0;
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+    bottom: 40px;
+    top: auto;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .navbar {
+    padding: 15px 0;
+  }
+  .navbar.navbar.is-sticky {
+    padding: 15px 0;
+  }
+  .navbar .others-options {
+    background-color: #f9f9f9;
+    padding-bottom: 30px;
+  }
+  .navbar .others-options a {
+    padding: 10px 10px;
+    font-size: 13px;
+    margin-left: 30px;
+    position: relative;
+    display: inline-block;
+  }
+  .navbar .others-options .modal-btn {
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+    position: absolute;
+    left: 54%;
+    top: 19px;
+  }
+  .navbar .others-options .modal-btn i {
+    font-size: 20px;
+    height: 35px;
+    width: 40px;
+    line-height: 35px;
+  }
+  .navbar-expand-lg > .container, .navbar-expand-lg > .container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .navbar-light .navbar-toggler {
+    padding: 3px 10px;
+    border-color: #0797ff;
+    background-color: #0797ff;
+    color: #0797ff;
+    border-radius: 0;
+    outline: none !important;
+    -webkit-box-shadow: none !important;
+            box-shadow: none !important;
+  }
+  .navbar-light .navbar-toggler:focus {
+    -webkit-box-shadow: unset;
+            box-shadow: unset;
+  }
+  .navbar-light .navbar-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+  .navbar-light .navbar-nav {
+    background: #f9f9f9;
+    padding: 18px 30px;
+    margin-top: 15px;
+  }
+  .navbar-light .navbar-nav .nav-item {
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 7px;
+    padding-top: 7px;
+  }
+  .navbar-light .navbar-nav .nav-item .nav-link {
+    color: #19191b;
+  }
+  .navbar-light .navbar-nav .nav-item .nav-link:hover, .navbar-light .navbar-nav .nav-item .nav-link:focus, .navbar-light .navbar-nav .nav-item .nav-link.active {
+    color: #0797ff;
+  }
+  .navbar-light .navbar-nav .nav-item .nav-link:hover::before, .navbar-light .navbar-nav .nav-item .nav-link:focus::before, .navbar-light .navbar-nav .nav-item .nav-link.active::before {
+    bottom: 50%;
+  }
+  .navbar-light .navbar-nav .nav-item .nav-link::before {
+    margin-bottom: -5px;
+    margin-right: 0;
+  }
+  .navbar-light .navbar-nav .nav-item.active .nav-link {
+    color: #0797ff;
+  }
+  .navbar-light .navbar-nav .nav-item.active .nav-link::before {
+    bottom: 50%;
+  }
+  .navbar-light.is-sticky .navbar-toggler {
+    border-color: #0797ff;
+    color: #0797ff;
+  }
+  .navbar-light.is-sticky .navbar-nav .nav-item .nav-link::before {
+    margin-bottom: 0;
+    margin-top: -5px;
+  }
+  .navbar-light.is-sticky .navbar-nav .nav-item .nav-link:hover::before, .navbar-light.is-sticky .navbar-nav .nav-item .nav-link:focus::before, .navbar-light.is-sticky .navbar-nav .nav-item .nav-link.active::before {
+    top: 50%;
+    bottom: auto;
+  }
+  .navbar-light.is-sticky .navbar-nav .nav-item.active .nav-link::before {
+    top: 50%;
+    bottom: auto;
+  }
+  .navbar-light.nav-style4 .navbar-nav {
+    background-color: #0e0e0e;
+  }
+  .navbar-light.nav-style4 .others-options {
+    background-color: unset;
+    padding-bottom: 0;
+  }
+  .navbar-light.nav-style4 .navbar-toggler {
+    background-color: #9C5451;
+    border-color: #9C5451 !important;
+  }
+  .navbar-light.nav-style2 .navbar-toggler {
+    background-color: #f4732a;
+    border-color: #f4732a;
+  }
+  .navbar-light.nav-style3 .navbar-toggler {
+    background-color: #3561e4;
+    border-color: #3561e4;
+  }
+  .navbar-light.nav-style5 .navbar-toggler {
+    background-color: #f4732a;
+    border-color: #f4732a;
+  }
+  .navbar-light.nav-style6 .navbar-nav {
+    padding-bottom: 25px;
+  }
+  .navbar-light.nav-style6 .others-options {
+    background-color: unset;
+    padding-bottom: 0;
+  }
+  .navbar-light.nav-style7 .navbar-toggler {
+    background-color: #dd131a;
+    border-color: #dd131a;
+  }
+  .navbar-light.nav-style7 .others-options {
+    padding-bottom: 17px;
+  }
+  .navbar-light.nav-style8 .navbar-nav {
+    background-color: #0e0e0e;
+  }
+  .navbar-light.nav-style8 .navbar-toggler {
+    background-color: #0b6dff;
+    border-color: #0b6dff;
+  }
+  .navbar-light.nav-style8 .others-options {
+    background-color: #0e0e0e;
+    margin-left: 0;
+    padding-left: 30px;
+  }
+  .navbar-light.nav-style9 .navbar-nav {
+    background-color: #0e0e0e;
+  }
+  .navbar-light.nav-style9 .navbar-toggler {
+    background-color: #06dbac;
+    border-color: #06dbac;
+  }
+  .navbar-light.nav-style9 .others-options {
+    background-color: #0e0e0e;
+    margin-left: 0;
+    padding-left: 30px;
+  }
+  .navbar-light.nav-style10 .navbar-nav {
+    background-color: #0e0e0e;
+  }
+  .navbar-light.nav-style10 .navbar-toggler {
+    background-color: #00a9a4;
+    border-color: #00a9a4;
+  }
+  .navbar-light.nav-style10 .others-options {
+    background-color: #0e0e0e;
+    margin-left: 0;
+    padding-bottom: 15px;
+  }
+  .navbar-light.nav-style11 .navbar-nav {
+    background-color: #0e0e0e;
+  }
+  .navbar-light.nav-style11 .switch-box {
+    margin-left: 15px;
+  }
+  .navbar-light.nav-style11 .switch-box .switch {
+    width: 35px;
+    height: 35px;
+    font-size: 20px;
+  }
+  .navbar-light.nav-style11 .switch-box .slider:before {
+    font-size: 20px;
+    top: 2px;
+    left: 7px;
+  }
+  .navbar-light.nav-style11 .navbar-brand {
+    max-width: 130px;
+  }
+  .navbar-light.nav-style11 .others-options {
+    background-color: transparent;
+    padding-bottom: 0;
+  }
+  .navbar-light.nav-style11 .others-options a {
+    margin-left: 0;
+  }
+  .navbar-light.nav-style11 .navbar-toggler {
+    background-color: #0797ff;
+    border-color: #0797ff;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
