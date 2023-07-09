@@ -196,19 +196,20 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="download-image-content">
-                            <img src="assets/images/download/download-img-1.png" alt="Image" />
-                            <img src="assets/images/download/download-shape-1.png" class="dowload-shape-1" alt="Image" />
+                            <img src="assets/images/premium-security.png" style="
+                            height:400px !important; padding-bottom:104px !important" alt="Image" />
+                            <!-- <img src="assets/images/download/download-shape-1.png" class="dowload-shape-1" alt="Image" />
                             <img src="assets/images/download/download-shape-2.png" class="dowload-shape-2" alt="Image" />
                             <img src="assets/images/download/download-shape-3.png" class="dowload-shape-3" alt="Image" />
                             <img src="assets/images/download/download-shape-4.png" class="dowload-shape-4" alt="Image" />
-                            <img src="assets/images/download/download-shape-5.png" class="dowload-shape-5" alt="Image" />
+                            <img src="assets/images/download/download-shape-5.png" class="dowload-shape-5" alt="Image" /> -->
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="download-content pl-20">
                             <div class="download-title">
                                 <span>Get Ready for the Future</span>
-                                <h3>Experience the Future of Payments and Remittances with XendBitV2</h3>
+                                <h3 class="text-white">Experience the Future of Payments and Remittances with XendBitV2</h3>
                             </div>
                             <p>Say goodbye to high transaction fees, payment delays, reversals, and the lack of dedicated payment channels for critical transactions. XendBitV2 has got you covered!</p>
                             <div class="download-links">
