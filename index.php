@@ -18,8 +18,8 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6" data-aos="fade-down" data-aos-duration="1200" data-aos-delay="200">
                         <div class="app-banner-content">
-                            <span>Crypto Exchange and Blockchain Services</span>
-                            <h3 class=""text-white>Total Control and Security</h3>
+                            <h2><span>Crypto Exchange and Blockchain Services</span></h2>
+                            <h3 class="text-white">Total Control and Security</h3>
                             <!-- <p>Trade Bitcoin, Ethereum and Litecoin without the risks associated with centralised exchanges.</p> -->
                             <p>Unleash the full potential of hassle-free payments and remittances with XendBitV2, the leading crypto-friendly application platform designed to address the challenges of the African financial landscape. As Africa embraces the crypto revolution, XendBit recognizes the need for a compliant and innovative platform. Say goodbye to high transaction fees, payment delays, reversals, and the lack of dedicated payment channels for critical transactions. XendBitV2 has got you covered!</p>
                             <!-- <div class="download-links">
@@ -52,43 +52,43 @@
             <div class="container">
                 <div class="app-section-title">
                     <span>Discover why XendBitV2 will redefine the way you transact in the African landscape</span>
-                    <h2>Awesome Features</h2>
+                    <h2>Awesome Benefits & Impacts</h2>
                 </div>
 
                 <div class="row">
-                    <div class="col-lg-3 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+                    <div class="col-lg-36 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div class="single-app-features-box">
                             <div class="features-content">
                                 <i class="flaticon-return"></i>
-                                <h3>Easy to Use</h3>
-                                <p>With XendBitV2, managing your financial transactions will be a breeze. Our user-friendly interface will allow you to effortlessly edit and control your account, ensuring a seamless experience.</p>
+                                <h3>Enhanced Affordability</h3>
+                                <p>XendBitV2's reduced transaction fees enable cost-effective crypto payments and remittances, encouraging wider adoption and financial inclusion among individuals and businesses.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                    <div class="col-lg-6 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-app-features-box">
                             <div class="features-content">
                                 <i class="flaticon-security"></i>
-                                <h3>Fully Secure</h3>
-                                <p>With XendBitV2, managing your financial transactions will be a breeze. Our user-friendly interface will allow you to effortlessly edit and control your account, ensuring a seamless experience.<br></p>
+                                <h3>Secure and Transparent Transactions</h3>
+                                <p>XendBitV2 leverages blockchain technology to enhance security, immutability, and transparency, fostering trust among users and mitigating the risk of fraud or unauthorized activities.<br></p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
+                    <div class="col-lg-6 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
                         <div class="single-app-features-box">
                             <div class="features-content">
                                 <i class="flaticon-cogwheel"></i>
-                                <h3>Manage User</h3>
-                                <p>Effortlessly manage multiple users with XendBitV2's intuitive user management system. Perfect for businesses or families with various financial needs.<br><br></p>
+                                <h3>Expedited Payments</h3>
+                                <p>The improved payment processing capabilities of XendBitV2 ensure faster settlement times, reducing payment delays and providing a more efficient experience for users.<br><br></p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="800">
+                    <div class="col-lg-36 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="800">
                         <div class="single-app-features-box">
                             <div class="features-content">
                                 <i class="flaticon-return"></i>
-                                <h3>Reduced cost</h3>
-                                <p>XendBitV2 will reduce transactions cost with the help of the next blockchain for Xendcoin; a utility token that helps reduce the cost of exchanging points on the platform.<br><br>
+                                <h3>Facilitating Economic Growth</h3>
+                                <p>XendBitV2's crypto-friendly platform promotes the growth of the crypto industry in Nigeria, attracting investments, stimulating innovation, and contributing to the overall economic development of the country.
                                 </p>
                             </div>
                         </div>
@@ -149,17 +149,18 @@
                     <div class="col-lg-6">
                         <div class="design-content">
                             <div class="design-title">
-                                <span>Cool & Amazing Design</span>
-                                <h2>We Develop Amazing DApps For our users</h2>
+                                <span>XendBitV2: Addressing Challenges and Providing Solutions in Nigeria</span>
+                                <h2>Crypto-Friendly Payment and Remittance Application Platform</h2>
                             </div>
                             <div class="design-text">
                                 <p>
-                                   At XendBitV2, we believe in delivering not just functionality but also an aesthetically pleasing experience. Our apps will boast amazing designs that complements the various powerful features.
+                                    XendBitV2 is a crypto-friendly payment and remittance application platform that aims to address the prevailing challenges and negative impacts on payment and remittances in Nigeria. With the adoption of a more crypto-based policy by the Federal Government of Nigeria, including the introduction of a crypto capital gains tax, XendBit recognizes the need to align its services with the evolving regulatory landscape. This has prompted the redesign and development of XendBitV1 to XendBitV2, ensuring compliance and offering improved solutions to issues such as increased transaction fees, payment processing delays, reversals, and the absence of a dedicated payment channel for critical or high-priority payments.
                                 </p>
                                 <p></p>
                             </div>
                             <a href="#reviews" class="app-default-btn btn">Discover More</a>
                         </div>
+
                     </div>
                     <div class="col-lg-6">
                         <div class="design-image">
@@ -186,95 +187,7 @@
         
 
         <!--Strat Reviews Area-->
-        <!-- <div id="reviews" class="app-reviews-area ptb-100">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="app-reviews-content">
-                            <div class="app-reviews-section">
-                                <span>Client Reviews</span>
-                                <h2>See What Others People Are Saying</h2>
-                            </div>
-                            <div class="app-reviews-slider owl-carousel owl-theme">
-                                <div class="app-reviews-box">
-                                    <div class="rating-star">
-                                        <ul>
-                                            <li><i class="flaticon-star"></i></li>
-                                            <li><i class="flaticon-star"></i></li>
-                                            <li><i class="flaticon-star"></i></li>
-                                            <li><i class="flaticon-star-1"></i></li>
-                                            <li><i class="flaticon-star-1"></i></li>
-                                        </ul>
-                                    </div>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus luc tus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus.
-                                    </p>
-                                    <div class="clients-profile">
-                                        <div class="clients-img">
-                                            <img src="assets/images/reviews/reviews-3.png" alt="Image" />
-                                        </div>
-                                        <h3>Gabriele Riccardo</h3>
-                                        <p>CEO & Founder</p>
-                                    </div>
-                                </div>
-                                <div class="app-reviews-box">
-                                    <div class="rating-star">
-                                        <ul>
-                                            <li><i class="flaticon-star"></i></li>
-                                            <li><i class="flaticon-star"></i></li>
-                                            <li><i class="flaticon-star"></i></li>
-                                            <li><i class="flaticon-star-1"></i></li>
-                                            <li><i class="flaticon-star-1"></i></li>
-                                        </ul>
-                                    </div>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus luc tus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus.
-                                    </p>
-                                    <div class="clients-profile">
-                                        <div class="clients-img">
-                                            <img src="assets/images/reviews/reviews-2.png" alt="Image" />
-                                        </div>
-                                        <h3>Tabriele Piccardo</h3>
-                                        <p>CEO & Founder</p>
-                                    </div>
-                                </div>
-                                <div class="app-reviews-box">
-                                    <div class="rating-star">
-                                        <ul>
-                                            <li><i class="flaticon-star"></i></li>
-                                            <li><i class="flaticon-star"></i></li>
-                                            <li><i class="flaticon-star"></i></li>
-                                            <li><i class="flaticon-star-1"></i></li>
-                                            <li><i class="flaticon-star-1"></i></li>
-                                        </ul>
-                                    </div>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus luc tus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellus.
-                                    </p>
-                                    <div class="clients-profile">
-                                        <div class="clients-img">
-                                            <img src="assets/images/reviews/reviews-1.png" alt="Image" />
-                                        </div>
-                                        <h3>Zabriele Kiccardo</h3>
-                                        <p>CEO & Founder</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="app-reviews-img">
-                            <img src="assets/images/reviews/reviews-img-4.png" alt="Image" />
-                            <div class="video-player">
-                                <div class="icon">
-                                    <a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=6WQCJx_vEX4"><i class="flaticon-play-button-arrowhead"></i>Watch Video</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
+        
         <!--End Reviews Area-->
 
         <!--Start App Dowload Area-->
@@ -294,13 +207,13 @@
                     <div class="col-lg-6">
                         <div class="download-content pl-20">
                             <div class="download-title">
-                                <span>Download Our App</span>
-                                <h2>Get ready to embrace the future of payments and remittances with XendBitV2</h2>
+                                <span>Get Ready for the Future</span>
+                                <h3>Experience the Future of Payments and Remittances with XendBitV2</h3>
                             </div>
                             <p>Say goodbye to high transaction fees, payment delays, reversals, and the lack of dedicated payment channels for critical transactions. XendBitV2 has got you covered!</p>
                             <div class="download-links">
                                 <ul>
-                                   <!--  <li>
+                                    <!--  <li>
                                         <a href="#"><img src="assets/images/banner/banner-shape-4.png" alt="Image" /></a>
                                     </li>
                                     <li>
@@ -310,6 +223,7 @@
                             </div>
                         </div>
                     </div>
+
                 </div>
                 <img src="assets/images/download/download-shape-6.png" class="download-shape-6" alt="Image" />
             </div>
@@ -317,121 +231,7 @@
         <!--End App Dowload Area-->
 
         <!--Strat Team Area-->
-        <!-- <div id="team" class="team-area pt-100 pb-70">
-            <div class="container">
-                <div class="app-section-title">
-                    <span>Our Team!</span>
-                    <h2>Meet Our Team Members</h2>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6" data-aos="zoom-in-up" data-aos-duration="1200" data-aos-delay="200">
-                        <div class="single-team-card">
-                            <div class="team-image">
-                                <img src="assets/images/team/team-1.png" alt="Image" />
-                            </div>
-                            <div class="team-content">
-                                <h3>Cody Fisher <span>/owner</span></h3>
-                                <div class="social-links">
-                                    <ul>
-                                        <li>
-                                            <a href="https://www.facebook.com/" target="_blank"><i class="flaticon-facebook-1"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.twitter.com/" target="_blank"><i class="flaticon-twitter-3"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://google.com/" target="_blank"><i class="flaticon-google-plus"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://linkedin.com/?lang=en" target="_blank"><i class="flaticon-linkedin-1"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6" data-aos="zoom-in-up" data-aos-duration="1200" data-aos-delay="400">
-                        <div class="single-team-card">
-                            <div class="team-image">
-                                <img src="assets/images/team/team-2.png" alt="Image" />
-                            </div>
-                            <div class="team-content">
-                                <h3>Emily Coper <span>/Desiger</span></h3>
-                                <div class="social-links">
-                                    <ul>
-                                        <li>
-                                            <a href="https://www.facebook.com/" target="_blank"><i class="flaticon-facebook-1"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.twitter.com/" target="_blank"><i class="flaticon-twitter-3"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://google.com/" target="_blank"><i class="flaticon-google-plus"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://linkedin.com/?lang=en" target="_blank"><i class="flaticon-linkedin-1"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6" data-aos="zoom-in-up" data-aos-duration="1200" data-aos-delay="600">
-                        <div class="single-team-card">
-                            <div class="team-image">
-                                <img src="assets/images/team/team-3.png" alt="Image" />
-                            </div>
-                            <div class="team-content">
-                                <h3>Nick Obron <span>/Developer</span></h3>
-                                <div class="social-links">
-                                    <ul>
-                                        <li>
-                                            <a href="https://www.facebook.com/" target="_blank"><i class="flaticon-facebook-1"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.twitter.com/" target="_blank"><i class="flaticon-twitter-3"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://google.com/" target="_blank"><i class="flaticon-google-plus"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://linkedin.com/?lang=en" target="_blank"><i class="flaticon-linkedin-1"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6" data-aos="zoom-in-up" data-aos-duration="1200" data-aos-delay="800">
-                        <div class="single-team-card">
-                            <div class="team-image">
-                                <img src="assets/images/team/team-4.png" alt="Image" />
-                            </div>
-                            <div class="team-content">
-                                <h3>Simmy Roy <span>/Manager</span></h3>
-                                <div class="social-links">
-                                    <ul>
-                                        <li>
-                                            <a href="https://www.facebook.com/" target="_blank"><i class="flaticon-facebook-1"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.twitter.com/" target="_blank"><i class="flaticon-twitter-3"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://google.com/" target="_blank"><i class="flaticon-google-plus"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://linkedin.com/?lang=en" target="_blank"><i class="flaticon-linkedin-1"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <img src="assets/images/shape/shape-13.png" class="team-shape" alt="Image" />
-            </div>
-        </div> -->
+        
         <!--End Team Area-->
 
         <!--Strat Watch Video Area-->
@@ -455,7 +255,7 @@
             <div class="container">
                 <div class="app-section-title">
                     <span>See XendBitV2 in action.</span>
-                    <h3> Immerse yourself in the breathtaking beauty of the African landscape as you embark on your financial journey with XendBitV2. From the majestic savannahs to the vibrant cityscapes, Africa will be your backdrop as you experience the power of crypto-friendly payments and remittances.</h3>
+                    <h6> XendBitV2 presents a compelling solution to the prevailing challenges faced in the Nigerian payment and remittance landscape, leveraging the adoption of a more crypto-based policy by the Federal Government. By providing a secure, efficient, and compliant payment and remittance platform, XendBitV2 aims to improve affordability, reduce transaction delays, establish reliable payment channels, and foster economic growth. As Nigeria embraces the crypto revolution, XendBitV2 is poised to become a key player in the evolving crypto financial ecosystem.</h6>
                 </div>
                 <div class="class-for-frame">
                     <!-- <div class="choose-slider owl-carousel owl-theme">
