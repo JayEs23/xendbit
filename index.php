@@ -88,7 +88,7 @@
                             <div class="features-content">
                                 <i class="flaticon-return"></i>
                                 <h3>Facilitating Economic Growth</h3>
-                                <p>XendBitV2's crypto-friendly platform promotes the growth of the crypto industry in Nigeria, attracting investments, stimulating innovation, and contributing to the overall economic development of the country.
+                                <p>XendBitV2's crypto-friendly platform promotes the growth of the crypto industry in Africa, attracting investments, stimulating innovation, and contributing to the overall economic development of the country.
                                 </p>
                             </div>
                         </div>
@@ -113,7 +113,7 @@
                                 <span>Our Acquaintance</span>
                                 <h2>We Are Trusted</h2>
                                 <p>
-                                    Join the band of satisfied users who will trust XendBitV2 for their payment and remittance needs. We have built a reputation for reliability and efficiency in the African landscape.
+                                    Join the band of users who will trust XendBitV2 for their payment and remittance needs. We have building a reputation for reliability and efficiency in the African landscape.
 
                             <div class="acquaintance-list">
                                 <ul>
@@ -129,7 +129,7 @@
                                             <i class="flaticon-data-management"></i>
                                         </div>
                                         <h3>Easy to Manage Data</h3>
-                                        <p>Simplify your financial management with XendBitV2. Our platform will streamline data management, giving you more time to focus on what matters most.</p>
+                                        <p>Simplify your financial management with XendBitV2. Our platform will streamline data management, that will give merchants more time to focus on what matters most.</p>
                                     </li>
                                 </ul>
                             </div>
@@ -149,12 +149,12 @@
                     <div class="col-lg-6">
                         <div class="design-content">
                             <div class="design-title">
-                                <span>XendBitV2: Addressing Challenges and Providing Solutions in Nigeria</span>
+                                <span>XendBitV2: Addressing Challenges and Providing Solutions in Africa</span>
                                 <h2>Crypto-Friendly Payment and Remittance Application Platform</h2>
                             </div>
                             <div class="design-text">
                                 <p>
-                                    XendBitV2 is a crypto-friendly payment and remittance application platform that aims to address the prevailing challenges and negative impacts on payment and remittances in Nigeria. With the adoption of a more crypto-based policy by the Federal Government of Nigeria, including the introduction of a crypto capital gains tax, XendBit recognizes the need to align its services with the evolving regulatory landscape. This has prompted the redesign and development of XendBitV1 to XendBitV2, ensuring compliance and offering improved solutions to issues such as increased transaction fees, payment processing delays, reversals, and the absence of a dedicated payment channel for critical or high-priority payments.
+                                    XendBitV2 is a crypto-friendly payment and remittance application platform that aims to address the prevailing challenges and negative impacts on payment and remittances in Africa. With the adoption of a more crypto-based policy by the Federal Government of Nigeria, including the introduction of a crypto capital gains tax, XendBit recognizes the need to align its services with the evolving regulatory landscape. This has prompted the redesign and development of XendBitV1 to XendBitV2, ensuring compliance and offering improved solutions to issues such as increased transaction fees, payment processing delays, reversals, and the absence of a dedicated payment channel for critical or high-priority payments.
                                 </p>
                                 <p></p>
                             </div>
@@ -211,7 +211,7 @@
                                 <span>Get Ready for the Future</span>
                                 <h3 class="text-white">Experience the Future of Payments and Remittances with XendBitV2</h3>
                             </div>
-                            <p>Say goodbye to high transaction fees, payment delays, reversals, and the lack of dedicated payment channels for critical transactions. XendBitV2 has got you covered!</p>
+                            <p>Say goodbye to high transaction fees, payment delays, reversals, and the lack of dedicated payment channels for critical transactions.</p>
                             <div class="download-links">
                                 <ul>
                                     <!--  <li>
@@ -256,7 +256,7 @@
             <div class="container">
                 <div class="app-section-title">
                     <span>See XendBitV2 in action.</span>
-                    <h6> XendBitV2 presents a compelling solution to the prevailing challenges faced in the Nigerian payment and remittance landscape, leveraging the adoption of a more crypto-based policy by the Federal Government. By providing a secure, efficient, and compliant payment and remittance platform, XendBitV2 aims to improve affordability, reduce transaction delays, establish reliable payment channels, and foster economic growth. As Nigeria embraces the crypto revolution, XendBitV2 is poised to become a key player in the evolving crypto financial ecosystem.</h6>
+                    <h6> XendBitV2 presents a compelling solution to the prevailing challenges faced in the African payment and remittance landscape, leveraging the adoption of a more crypto-based policy by the Federal Government. By providing a secure, efficient, and compliant payment and remittance platform, XendBitV2 aims to improve affordability, reduce transaction delays, establish reliable payment channels, and foster economic growth. As Nigeria embraces the crypto revolution, XendBitV2 is poised to become a key player in the evolving crypto financial ecosystem.</h6>
                 </div>
                 <div class="class-for-frame">
                     <!-- <div class="choose-slider owl-carousel owl-theme">
