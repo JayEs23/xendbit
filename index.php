@@ -18,10 +18,10 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6" data-aos="fade-down" data-aos-duration="1200" data-aos-delay="200">
                         <div class="app-banner-content">
-                            <h2><span>Crypto Exchange and Blockchain Services</span></h2>
+                            <h2><span>Dex and Crypto to Cash Remittance</span></h2>
                             <h3 class="text-white">Total Control and Security</h3>
                             <!-- <p>Trade Bitcoin, Ethereum and Litecoin without the risks associated with centralised exchanges.</p> -->
-                            <p>Unleash the full potential of hassle-free payments and remittances with XendBitV2, the leading crypto-friendly application platform designed to address the challenges of the African financial landscape. As Africa embraces the crypto revolution, XendBit recognizes the need for a compliant and innovative platform. Say goodbye to high transaction fees, payment delays, reversals, and the lack of dedicated payment channels for critical transactions. XendBitV2 has got you covered!</p>
+                            <p>The adoption of XendBitV2 is a crypto exchange and  cross-border remittance platform that will revolutionize the cross-border remittance landscape in Africa. By leveraging the speed and low-cost attributes of cryptocurrencies, XendBitV2 will enhance the efficiency of remittance transactions and improve financial inclusion</p>
                             <!-- <div class="download-links">
                                 <ul>
                                     <li>
