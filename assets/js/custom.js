@@ -880,7 +880,7 @@
 		date: '08/27/2023 12:00:00',
 		offset: -5
 	}, function () {
-		alert('WOOT WOOT, done!');
+		//alert('WOOT WOOT, done!');
 	});
 
     // MixItUp Shorting
